@@ -53,5 +53,4 @@ Paradigms of Intelligence (Pi), a research team at Google, brings together an in
 | [ Is AI Really an Existential Threat to Humanity](https://www.motherjones.com/politics/2024/07/is-ai-really-an-existential-threat-to-humanity-interview-blaise-arcas/) | Mother Jones | July 7, 2024 |
 | [How we created our Google AI Essentials course](https://blog.google/outreach-initiatives/grow-with-google/google-ai-essentials-course-creation/) | Google Blog - Keyword | June 24, 2024 |
 | [Google just dropped millions of dollars to teach more people how to use AI—and an exec says it could ‘create a reinvigoration of the American middle class’](https://fortune.com/2024/04/26/google-ai-skills-investment-opportunity-fund-essentials-course-james-manyika-lisa-gevelber/) | Fortune Magazine| April 26, 2024 |
-| [ Jpegli](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html) | Google Blog |  April 3, 2024 |
 | [ Identity and Collective Intelligence with Blaise Agüera y Arcas, VP at Google Research](https://www.youtube.com/watch?v=xZ2EQgINEh4) | Invisible Machines | November 30, 2023 |
