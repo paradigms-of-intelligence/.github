@@ -22,6 +22,7 @@ Paradigms of Intelligence (Pi), a research team at Google, brings together an in
 | [Weight decay induces low-rank attention layers](https://arxiv.org/abs/2410.23819)|  Neurips 2024 |**Seijin Kobayashi**, Yassir Akram, **Johannes Von Oswald**| October 31, 2024|
 | [Multi-agent cooperation through learning-aware policy gradients](https://arxiv.org/abs/2410.18636)| 7th Montreal AI & Neuroscience conference |**Alexander Meulemans**, **Seijin Kobayashi**, **Johannes von Oswald**, **Nino Scherrer**, **Eric Elmoznino**, **Blake Richards**, **Guillaume Lajoie**, **Blaise Agüera y Arcas**, **João Sacramento**| October 24, 2024|
 | [The Code That Binds Us: Navigating the Appropriateness of Human-AI Assistant Relationships](https://ojs.aaai.org/index.php/AIES/article/view/31694) | AAAI/ACM Conference on AI, Ethics, and Society | Arianna Manzini, **Geoff Keeling**, Lize Alberts (Oxford),Shannon Vallor (Edinburgh), 	Meredith Ringel Morris,  Iason Gabriel, | October 16, 2024|
+| [Learning Randomized Algorithms with Transformers](https://arxiv.org/abs/2408.10818)|ICLR 2025| **Johannes von Oswald**, **Seijin Kobayashi**, Yassir Akram, **Angelika Steger**| August 20, 2024|
 | [AI Mental Models & Trust ](https://www.epicpeople.org/ai-mental-models-and-trust/)|  Ethnography Praxis in Industry Conference | Soojin Jeong, **Anoop Sinha**| August 18, 2024|
 | [Emergent Multiscale Structures and Generative Potential of Isotropic Neural Cellular Automata](https://direct.mit.edu/isal/proceedings/isal2024/36/28/123503)|  ALIFE 2024  |**Alexander Mordvintsev**, **Eyvind Niklasson**| July 22, 2024|
 | [On the attribution of confidence to large language models](https://arxiv.org/abs/2407.08388) | Inquiry | **Geoff Keeling**, **Winnie Street** | July 11, 2024|
@@ -40,6 +41,8 @@ Paradigms of Intelligence (Pi), a research team at Google, brings together an in
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [Blaise Agüera y Arcas: What Is Intelligence?](https://www.artificiality.world/blaise-aguera-y-arcas-what-is-intelligence/) | Artificiality |March 17, 2025 |
+| [Can the artificial really be 'intelligent'? This researcher wants us to think bigger](https://www.kuow.org/stories/can-the-artificial-really-be-intelligent-this-rese) | KUOW - National Public Radio|March 10, 2025 |
 | [What is Life? Round 2 with Blaise Aguera y Arcas](https://uxmag.com/podcast/what-is-life-with-blaise-aguera-y-arcas) | Invisible Machines |January 31, 2025 |
 | [Could Pain Help Test AI for Sentience?](https://www.scientificamerican.com/article/could-inflicting-pain-test-ai-for-sentience/) | Scientific American |January 14, 2025 |
 | [Multi-agent cooperation through learning-aware policy gradients](https://www.youtube.com/watch?v=mnKIdG91dnk) | Montreal AI and Neuroscience conference| January 13, 2025 |
