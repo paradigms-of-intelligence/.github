@@ -15,6 +15,8 @@ Paradigms of Intelligence (Pi), a research team at Google, brings together an in
 
 *Collective intelligence* -  Brains, AI models, and societies can all become more capable through greater scale. Intelligence is fundamentally modular and social, powered by mutual modeling, cooperation, and division of labor. In addition to causing us to rethink the nature of human (or “more than human”) intelligence, our insights suggest social and multiagent approaches to AI development that could reduce computational costs, increase AI diversity, and reframe AI safety debates.
 
+To learn more about these paradigms shifts, see [AI Is Evolving - And Changing Our Understanding of Intelligence](https://www.noemamag.com/ai-is-evolving-and-changing-our-understanding-of-intelligence/) in Noema Magazine. 
+
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
