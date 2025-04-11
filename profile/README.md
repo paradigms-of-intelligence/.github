@@ -18,6 +18,7 @@ Paradigms of Intelligence (Pi), a research team at Google, brings together an in
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
+| [A matter of principle? AI alignment as the fair treatment of claims](https://link.springer.com/article/10.1007/s11098-025-02300-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250330&utm_content=10.1007%2Fs11098-025-02300-4) | Philosophical Studies |Iason Gabriel, **Geoff Keeling**| March 30, 2025|
 | [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/) | Interactive Article +|**Pietro Miotti**, **Eyvind Niklasson**, **Ettore Randazzo**, **Alexander Mordvintsev** | March 3, 2025|
 | [Weight decay induces low-rank attention layers](https://arxiv.org/abs/2410.23819)|  Neurips 2024 |**Seijin Kobayashi**, Yassir Akram, **Johannes Von Oswald**| October 31, 2024|
 | [Multi-agent cooperation through learning-aware policy gradients](https://arxiv.org/abs/2410.18636)| 7th Montreal AI & Neuroscience conference |**Alexander Meulemans**, **Seijin Kobayashi**, **Johannes von Oswald**, **Nino Scherrer**, **Eric Elmoznino**, **Blake Richards**, **Guillaume Lajoie**, **Blaise Agüera y Arcas**, **João Sacramento**| October 24, 2024|
@@ -41,6 +42,8 @@ Paradigms of Intelligence (Pi), a research team at Google, brings together an in
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [AI Is Evolving — And Changing Our Understanding Of Intelligence](https://www.noemamag.com/ai-is-evolving-and-changing-our-understanding-of-intelligence/) | NOĒMA |April 8, 2025 |
+| [Yul Kwon: ‘Don't Try to Change Yourself All at Once (Update)](https://freakonomics.com/podcast/yul-kwon-dont-try-to-change-yourself-all-at-once-update/) | Freakonomics |April 4, 2025 |
 | [Blaise Agüera y Arcas: What Is Intelligence?](https://www.artificiality.world/blaise-aguera-y-arcas-what-is-intelligence/) | Artificiality |March 17, 2025 |
 | [Can the artificial really be 'intelligent'? This researcher wants us to think bigger](https://www.kuow.org/stories/can-the-artificial-really-be-intelligent-this-rese) | KUOW - National Public Radio|March 10, 2025 |
 | [What is Life? Round 2 with Blaise Aguera y Arcas](https://uxmag.com/podcast/what-is-life-with-blaise-aguera-y-arcas) | Invisible Machines |January 31, 2025 |
