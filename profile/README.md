@@ -20,6 +20,8 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
+| [When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors](https://arxiv.org/abs/2507.05246)|  ArXiV |Scott Emmons, Erik Jenner, David K. Elson, **Rif A. Saurous**, Senthooran Rajamanoharan, Heng Chen, Irhum Shafkat, Rohin Shah| July 7, 2025|
+| [MesaNet: Sequence Modeling by Locally Optimal Test-Time Training](https://arxiv.org/abs/2506.05233)|  ArXiV |**Johannes von Oswald**, **Nino Scherrer**, **Seijin Kobayashi**, **Luca Versari**, Songlin Yang, **Maximilian Schlegel**, **Kaitlin Maile**, **Yanick Schimpf**, Oliver Sieberling, **Alexander Meulemans**, **Rif A. Saurous**, **Guillaume Lajoie**, **Charlotte Frenkel**, Razvan Pascanu, **Blaise Agüera y Arcas**, **João Sacramento**| June 5, 2025|
 | [A matter of principle? AI alignment as the fair treatment of claims](https://link.springer.com/article/10.1007/s11098-025-02300-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250330&utm_content=10.1007%2Fs11098-025-02300-4) | Philosophical Studies |Iason Gabriel, **Geoff Keeling**| March 30, 2025|
 | [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/) | Interactive Article +|**Pietro Miotti**, **Eyvind Niklasson**, **Ettore Randazzo**, **Alexander Mordvintsev** | March 3, 2025|
 | [Weight decay induces low-rank attention layers](https://arxiv.org/abs/2410.23819)|  Neurips 2024 |**Seijin Kobayashi**, Yassir Akram, **Johannes Von Oswald**| October 31, 2024|
@@ -45,13 +47,17 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
 | [AI Is Evolving — And Changing Our Understanding Of Intelligence](https://www.noemamag.com/ai-is-evolving-and-changing-our-understanding-of-intelligence/) | NOĒMA |April 8, 2025 |
+| [MesaNet: Sequence Modelling by Locally Optimal Test Time Training](https://www.youtube.com/watch?v=Kvw_d3iL9vI) | ASAP Seminar |June 24, 2025 |
+| [Sequence Prediction through Local Learning with João Sacramento](https://www.youtube.com/watch?v=R9yuajrZw_M) | Kempner Institute at Harvard University  |June 5, 2025 |
 | [Yul Kwon: ‘Don't Try to Change Yourself All at Once (Update)](https://freakonomics.com/podcast/yul-kwon-dont-try-to-change-yourself-all-at-once-update/) | Freakonomics |April 4, 2025 |
 | [Blaise Agüera y Arcas: What Is Intelligence?](https://www.artificiality.world/blaise-aguera-y-arcas-what-is-intelligence/) | Artificiality |March 17, 2025 |
 | [Can the artificial really be 'intelligent'? This researcher wants us to think bigger](https://www.kuow.org/stories/can-the-artificial-really-be-intelligent-this-rese) | KUOW - National Public Radio|March 10, 2025 |
+| [Thinking about AI in only negative terms seems a bit crazy to me”: Interview with Blaise Agüera y Arcas, Vice President of Google Research](https://www.telerama.fr/debats-reportages/penser-l-ia-en-termes-uniquement-negatifs-me-semble-un-peu-fou-entretien-avec-blaise-aguera-y-arcas-vice-president-de-google-research-7024296.php?utm_medium=social&utm_source=linktree&utm_campaign=t%C3%A9l%C3%A9rama%3A+%E2%80%9Cthinking+about+ai+in+only+negative+terms+seems+a+bit+crazy+to+me%E2%80%9D) | Télérama |February 10, 2025 |
 | [What is Life? Round 2 with Blaise Aguera y Arcas](https://uxmag.com/podcast/what-is-life-with-blaise-aguera-y-arcas) | Invisible Machines |January 31, 2025 |
 | [Could Pain Help Test AI for Sentience?](https://www.scientificamerican.com/article/could-inflicting-pain-test-ai-for-sentience/) | Scientific American |January 14, 2025 |
 | [Multi-agent cooperation through learning-aware policy gradients](https://www.youtube.com/watch?v=mnKIdG91dnk) | Montreal AI and Neuroscience conference| January 13, 2025 |
 | [Beyond the Brain](https://www.theatlantic.com/sponsored/google/beyond-the-brain/3944/) | The Atlantic | December 4, 2024 |
+| [Intelligent machines and humans: a collaborative future?](https://www.micromega.net/macchine-intelligenti-e-umani-un-futuro-di-collaborazione) | MicroMega |November 20, 2024 |
 | [LIFE (With Blaise Aguera y Arcas)](https://open.spotify.com/episode/4f6Hhy2XMWIsawDmGBUMPH) | Disintegrator|  November 14, 2024 |
 | [ Life evolves. So do minerals. How about everything else?](https://www.science.org/content/article/life-evolves-so-do-minerals-how-about-everything-else) | Science| November 1, 2024 |
 | [Addressing misconceptions and answering questions about GenAI](https://publicpolicy.google/article/answering-the-biggest-questions-about-generative-ai-at-google/) | Google Blog - Keyword| September 30, 2024 |G
