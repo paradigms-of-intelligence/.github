@@ -21,6 +21,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
 | [When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors](https://arxiv.org/abs/2507.05246)|  ArXiV |Scott Emmons, Erik Jenner, David K. Elson, **Rif A. Saurous**, Senthooran Rajamanoharan, Heng Chen, Irhum Shafkat, Rohin Shah| July 7, 2025|
+| [Tracing the representation geometry of language models from pretraining to post-training](https://openreview.net/forum?id=9nKmDLXg9v) | openreview.net | Melody Zixuan Li, Kumar Krishna Agrawal, **Arna Ghosh**, Komal Kumar Teru, **Guillaume Lajoie**, **Blake Aaron Richards** | June 9, 2025 |
 | [MesaNet: Sequence Modeling by Locally Optimal Test-Time Training](https://arxiv.org/abs/2506.05233)|  ArXiV |**Johannes von Oswald**, **Nino Scherrer**, **Seijin Kobayashi**, **Luca Versari**, Songlin Yang, **Maximilian Schlegel**, **Kaitlin Maile**, **Yanick Schimpf**, Oliver Sieberling, **Alexander Meulemans**, **Rif A. Saurous**, **Guillaume Lajoie**, **Charlotte Frenkel**, Razvan Pascanu, **Blaise Agüera y Arcas**, **João Sacramento**| June 5, 2025|
 | [A matter of principle? AI alignment as the fair treatment of claims](https://link.springer.com/article/10.1007/s11098-025-02300-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250330&utm_content=10.1007%2Fs11098-025-02300-4) | Philosophical Studies |Iason Gabriel, **Geoff Keeling**| March 30, 2025|
 | [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/) | Interactive Article +|**Pietro Miotti**, **Eyvind Niklasson**, **Ettore Randazzo**, **Alexander Mordvintsev** | March 3, 2025|
@@ -49,6 +50,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | [AI Is Evolving — And Changing Our Understanding Of Intelligence](https://www.noemamag.com/ai-is-evolving-and-changing-our-understanding-of-intelligence/) | NOĒMA |April 8, 2025 |
 | [MesaNet: Sequence Modelling by Locally Optimal Test Time Training](https://www.youtube.com/watch?v=Kvw_d3iL9vI) | ASAP Seminar |June 24, 2025 |
 | [Sequence Prediction through Local Learning with João Sacramento](https://www.youtube.com/watch?v=R9yuajrZw_M) | Kempner Institute at Harvard University  |June 5, 2025 |
+| [Mutual Prediction in Human‑AI Coevolution](https://coginfra.antikythera.org/) | Cognitive Infrastructures by Antikythera Studio 2024 |May 9, 2025 |
 | [Yul Kwon: ‘Don't Try to Change Yourself All at Once (Update)](https://freakonomics.com/podcast/yul-kwon-dont-try-to-change-yourself-all-at-once-update/) | Freakonomics |April 4, 2025 |
 | [Blaise Agüera y Arcas: What Is Intelligence?](https://www.artificiality.world/blaise-aguera-y-arcas-what-is-intelligence/) | Artificiality |March 17, 2025 |
 | [Can the artificial really be 'intelligent'? This researcher wants us to think bigger](https://www.kuow.org/stories/can-the-artificial-really-be-intelligent-this-rese) | KUOW - National Public Radio|March 10, 2025 |
