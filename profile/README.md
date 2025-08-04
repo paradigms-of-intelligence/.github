@@ -48,6 +48,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
 | [AI Is Evolving — And Changing Our Understanding Of Intelligence](https://www.noemamag.com/ai-is-evolving-and-changing-our-understanding-of-intelligence/) | NOĒMA |April 8, 2025 |
+| [Who’s to blame when AI agents mess up? We urgently need a new system of ethics](https://www.nature.com/articles/d41586-025-02454-5) | Nature| August 4, 2025 |
 | [MesaNet: Sequence Modelling by Locally Optimal Test Time Training](https://www.youtube.com/watch?v=Kvw_d3iL9vI) | ASAP Seminar |June 24, 2025 |
 | [Sequence Prediction through Local Learning with João Sacramento](https://www.youtube.com/watch?v=R9yuajrZw_M) | Kempner Institute at Harvard University  |June 5, 2025 |
 | [Mutual Prediction in Human‑AI Coevolution](https://coginfra.antikythera.org/) | Cognitive Infrastructures by Antikythera Studio 2024 |May 9, 2025 |
