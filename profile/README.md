@@ -20,6 +20,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
+| [Life at the boundary of chemical kinetics and program execution](https://journals.aps.org/pre/abstract/10.1103/dyzr-m21s)| Physical Review Journals |**Thomas Fischbacher**| September 11, 2025|
 | [When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors](https://arxiv.org/abs/2507.05246)|  ArXiV |Scott Emmons, Erik Jenner, David K. Elson, **Rif A. Saurous**, Senthooran Rajamanoharan, Heng Chen, Irhum Shafkat, Rohin Shah| July 7, 2025|
 | [Tracing the representation geometry of language models from pretraining to post-training](https://openreview.net/forum?id=9nKmDLXg9v) | openreview.net | Melody Zixuan Li, Kumar Krishna Agrawal, **Arna Ghosh**, Komal Kumar Teru, **Guillaume Lajoie**, **Blake Aaron Richards** | June 9, 2025 |
 | [MesaNet: Sequence Modeling by Locally Optimal Test-Time Training](https://arxiv.org/abs/2506.05233)|  ArXiV |**Johannes von Oswald**, **Nino Scherrer**, **Seijin Kobayashi**, **Luca Versari**, Songlin Yang, **Maximilian Schlegel**, **Kaitlin Maile**, **Yanick Schimpf**, Oliver Sieberling, **Alexander Meulemans**, **Rif A. Saurous**, **Guillaume Lajoie**, **Charlotte Frenkel**, Razvan Pascanu, **Blaise Agüera y Arcas**, **João Sacramento**| June 5, 2025|
@@ -49,6 +50,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
 | [AI Is Evolving — And Changing Our Understanding Of Intelligence](https://www.noemamag.com/ai-is-evolving-and-changing-our-understanding-of-intelligence/) | NOĒMA |April 8, 2025 |
+| [Self-Assembly Gets Automated in Reverse of ‘Game of Life’](https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/) | Quanta Magazine| September 10, 2025 |
 | [Blaise Agüera y Arcas on AI, Consciousness, and the Concept of Intelligence](https://open.spotify.com/episode/5jYsCjplV1AMaLsiOPZf0m?si=nB5-8JHkRCG0XlpzU86Oxg) | Responsible AI from The AI Forum| August 5, 2025 |
 | [Who’s to blame when AI agents mess up? We urgently need a new system of ethics](https://www.nature.com/articles/d41586-025-02454-5) | Nature| August 4, 2025 |
 | [MesaNet: Sequence Modelling by Locally Optimal Test Time Training](https://www.youtube.com/watch?v=Kvw_d3iL9vI) | ASAP Seminar |June 24, 2025 |
