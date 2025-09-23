@@ -50,6 +50,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
 | [AI Is Evolving — And Changing Our Understanding Of Intelligence](https://www.noemamag.com/ai-is-evolving-and-changing-our-understanding-of-intelligence/) | NOĒMA |April 8, 2025 |
+| [What Is Intelligence?](https://whatisintelligence.antikythera.org/) | Antikythera |September 23, 2025 |
 | [Self-Assembly Gets Automated in Reverse of ‘Game of Life’](https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/) | Quanta Magazine| September 10, 2025 |
 | [Blaise Agüera y Arcas on AI, Consciousness, and the Concept of Intelligence](https://open.spotify.com/episode/5jYsCjplV1AMaLsiOPZf0m?si=nB5-8JHkRCG0XlpzU86Oxg) | Responsible AI from The AI Forum| August 5, 2025 |
 | [Who’s to blame when AI agents mess up? We urgently need a new system of ethics](https://www.nature.com/articles/d41586-025-02454-5) | Nature| August 4, 2025 |
