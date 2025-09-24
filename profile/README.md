@@ -49,6 +49,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [Is life computation?](https://nautil.us/is-life-a-form-of-computation-1238864/) | Nautilus | September 24, 2025 |
 | [AI Is Evolving — And Changing Our Understanding Of Intelligence](https://www.noemamag.com/ai-is-evolving-and-changing-our-understanding-of-intelligence/) | NOĒMA |April 8, 2025 |
 | [What Is Intelligence?](https://whatisintelligence.antikythera.org/) | Antikythera |September 23, 2025 |
 | [Self-Assembly Gets Automated in Reverse of ‘Game of Life’](https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/) | Quanta Magazine| September 10, 2025 |
