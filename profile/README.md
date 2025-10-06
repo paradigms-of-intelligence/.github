@@ -49,6 +49,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [Harvard’s BKC Explores Whether Human Intelligence And AI Computational Intelligence Are Actually The Same](https://www.forbes.com/sites/lanceeliot/2025/09/28/harvards-bkc-explores-whether-human-intelligence-and-ai-computational-intelligence-are-actually-the-same/) | Forbes | September 28, 2025 |
 | [Is life computation?](https://nautil.us/is-life-a-form-of-computation-1238864/) | Nautilus | September 24, 2025 |
 | [AI Is Evolving — And Changing Our Understanding Of Intelligence](https://www.noemamag.com/ai-is-evolving-and-changing-our-understanding-of-intelligence/) | NOĒMA |April 8, 2025 |
 | [What Is Intelligence?](https://whatisintelligence.antikythera.org/) | Antikythera |September 23, 2025 |
