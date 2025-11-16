@@ -52,22 +52,30 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
 | [AI Is Evolving — And Changing Our Understanding Of Intelligence](https://www.noemamag.com/ai-is-evolving-and-changing-our-understanding-of-intelligence/) | NOĒMA |April 8, 2025 |
+| [Is the essence of life computational?](https://www.ft.com/content/c2ebbbf7-09bd-493e-b021-e7bad04f8fa7) |Financial Times | November 5, 2025 |
+| [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/) | The Keyword  | November 4, 2025 |
+| [Meet Project Suncatcher, a research moonshot to scale machine learning compute in space.](https://blog.google/technology/research/google-project-suncatcher/) | Google Research blog | November 4, 2025 |
 | [Google Researcher Shows Life Emerges From Code](https://www.youtube.com/watch?v=rMSEqJ_4EBk) | Machine Learning Street Talks  | October 21, 2025 |
 | [What Isn’t Intelligence?](https://lareviewofbooks.org/article/what-isnt-intelligence/)| Los Angeles Review of Books  | October 14, 2025 |
-| [Is life a form of computation?](https://www.popsci.com/science/is-life-a-form-of-computation/)| ZME Science  | October 5, 2025 |
-| [What If Life Is Just Another Kind of Computer?](https://www.zmescience.com/feature-post/technology-articles/computer-science/what-if-life-is-just-another-kind-of-computer/)| Mind Matters | October 1, 2025 |
-| [Life is computation? A good arguement for Intelligent design!](https://mindmatters.ai/brief/life-is-computation-thats-a-good-argument-for-intelligent-design/)| ZME Science | October 7, 2025 |
+| [Blaise Agüera y Arcas: What Is Intelligence?](https://www.youtube.com/watch?v=KhSJuqDUJME)| The Long Now Foundation  | October 09, 2025 |
+| [Is life a form of computation?](https://www.popsci.com/science/is-life-a-form-of-computation/)|  Popular Science | October 5, 2025 |
+| [Life is computation? A good arguement for intelligent design!](https://mindmatters.ai/brief/life-is-computation-thats-a-good-argument-for-intelligent-design/)| Mind Matters | October 1, 2025 |
+| [What if life is just another kind of computer?](https://www.zmescience.com/feature-post/technology-articles/computer-science/what-if-life-is-just-another-kind-of-computer/])| ZME Science | October 7, 2025 |
 | [Artificial intelligence may not be artificial](https://techxplore.com/news/2025-09-artificial-intelligence.html)| Tech Explore | September 30, 2025 |
+| [Is AI our Partner or our Enemy? Google CTO Blaise Agüera y Arcas](https://open.spotify.com/episode/5pXiu9P8fVbOmzNtlMpZZc?si=7q0IecjhQUOB1iHKQXElpw)| Into the Impossible with Brian Keating  | September 30, 2025 |
 | [Harvard’s BKC Explores Whether Human Intelligence And AI Computational Intelligence Are Actually The Same](https://www.forbes.com/sites/lanceeliot/2025/09/28/harvards-bkc-explores-whether-human-intelligence-and-ai-computational-intelligence-are-actually-the-same/) | Forbes | September 28, 2025 |
 | [Is life computation?](https://nautil.us/is-life-a-form-of-computation-1238864/) | Nautilus | September 24, 2025 |
 | [What Is Intelligence?](https://whatisintelligence.antikythera.org/) | Antikythera |September 23, 2025 |
 | [Self-Assembly Gets Automated in Reverse of ‘Game of Life’](https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/) | Quanta Magazine| September 10, 2025 |
 | [Blaise Agüera y Arcas on AI, Consciousness, and the Concept of Intelligence](https://open.spotify.com/episode/5jYsCjplV1AMaLsiOPZf0m?si=nB5-8JHkRCG0XlpzU86Oxg) | Responsible AI from The AI Forum| August 5, 2025 |
+| [Winnie Street and Geoff Keeling, "Could an AI system be a moral patient?"](https://www.youtube.com/watch?v=U0GBfbgYf-Y) | NYU Center for Mind, Ethics, and Policy| August 25, 2025 |
 | [MesaNet: Sequence Modelling by Locally Optimal Test Time Training](https://www.youtube.com/watch?v=Kvw_d3iL9vI) | ASAP Seminar |June 24, 2025 |
+| [Blaise Agüera y Arcas with Charles Mudede: What is Life? Evolution as Computation?](https://open.spotify.com/episode/4K8RHdMnXIvZprdARypjU1?si=8FNICSXHR5ubXBu25L_Ewg) | Town Hall Seattle Science Series  |June 12, 2025 |
 | [Sequence Prediction through Local Learning with João Sacramento](https://www.youtube.com/watch?v=R9yuajrZw_M) | Kempner Institute at Harvard University  |June 5, 2025 |
 | [Panel: AI the Moral Agent, AI the Moral Patient](https://www.youtube.com/watch?v=Jwuf1zLkaqk) | AI for Animals - AIADM London 2025 |May 30, 2025 |
 | [Mutual Prediction in Human‑AI Coevolution](https://coginfra.antikythera.org/) | Cognitive Infrastructures by Antikythera Studio 2024 |May 9, 2025 |
 | [Yul Kwon: ‘Don't Try to Change Yourself All at Once (Update)](https://freakonomics.com/podcast/yul-kwon-dont-try-to-change-yourself-all-at-once-update/) | Freakonomics |April 4, 2025 |
+| [Blaise Agüera y Arcas and Michael Levin: The Computational Foundations of Life and Intelligence ](https://open.spotify.com/episode/28L1RJVsYso42Ov8to0q9X?si=SwjIKFRBRziFQTtsXhjZdA) | Artificiality: Being with AI |March 12, 2025 |
 | [Blaise Agüera y Arcas: What Is Intelligence?](https://www.artificiality.world/blaise-aguera-y-arcas-what-is-intelligence/) | Artificiality |March 17, 2025 |
 | [Can the artificial really be 'intelligent'? This researcher wants us to think bigger](https://www.kuow.org/stories/can-the-artificial-really-be-intelligent-this-rese) | KUOW - National Public Radio|March 10, 2025 |
 | [Thinking about AI in only negative terms seems a bit crazy to me”: Interview with Blaise Agüera y Arcas, Vice President of Google Research](https://www.telerama.fr/debats-reportages/penser-l-ia-en-termes-uniquement-negatifs-me-semble-un-peu-fou-entretien-avec-blaise-aguera-y-arcas-vice-president-de-google-research-7024296.php?utm_medium=social&utm_source=linktree&utm_campaign=t%C3%A9l%C3%A9rama%3A+%E2%80%9Cthinking+about+ai+in+only+negative+terms+seems+a+bit+crazy+to+me%E2%80%9D) | Télérama |February 10, 2025 |
