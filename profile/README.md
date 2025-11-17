@@ -20,6 +20,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
+| [Towards a future space-based, highly scalable AI infrastructure system design](https://services.google.com/fh/files/misc/suncatcher_paper.pdf)| Google |**Blaise Agüera y Arcas**, **Travis Beals**, **Maria Biggs**, **Jessica V. Bloom**, **Thomas Fischbacher**, **Konstantin Gromov**, **Urs Köster**, **Rishiraj Pravahan**, and James Manyika| November 4, 2025|
 | [Not Every AI Problem is a Data Problem: We Should Be Intentional About Data Scaling ](https://dl.acm.org/doi/10.1145/3731656)|  Communications of ACM - Opinion |Tanya Rodchenko, Natasha Noy, **Nino Scherrer**| September 23, 2025|
 | [Life at the boundary of chemical kinetics and program execution](https://journals.aps.org/pre/abstract/10.1103/dyzr-m21s)| Physical Review Journals |**Thomas Fischbacher**| September 11, 2025|
 | [We need a new ethics for a world of AI agents](https://www.nature.com/articles/d41586-025-02454-5)| Nature| Iason Gabriel, **Geoff Keeling**, Arianna Manzini, **James Evans** |  August 4, 2025 |
@@ -51,7 +52,8 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
-| [AI Is Evolving — And Changing Our Understanding Of Intelligence](https://www.noemamag.com/ai-is-evolving-and-changing-our-understanding-of-intelligence/) | NOĒMA |April 8, 2025 |
+| [Data Centers in Space + A.I. Policy on the Right + A Gemini History Mystery](https://www.nytimes.com/2025/11/14/podcasts/hardfork-data-center-space.html?smid=nytcore-ios-share&referringSource=articleShare) | Hard Fork - The New York Times |November 14, 2025 |
+| [AI: Blaise Agüera y Arcas, the Google researcher who questions machine consciousness](https://www.lemonde.fr/economie/article/2025/11/14/blaise-aguera-y-arcas-le-chercheur-de-google-qui-s-interroge-sur-l-intelligence-des-machines_6653359_3234.html) | Le Monde |November 14, 2025 |
 | [Is the essence of life computational?](https://www.ft.com/content/c2ebbbf7-09bd-493e-b021-e7bad04f8fa7) |Financial Times | November 5, 2025 |
 | [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/) | The Keyword  | November 4, 2025 |
 | [Meet Project Suncatcher, a research moonshot to scale machine learning compute in space.](https://blog.google/technology/research/google-project-suncatcher/) | Google Research blog | November 4, 2025 |
