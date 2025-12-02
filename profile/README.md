@@ -20,6 +20,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
+| [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](https://arxiv.org/abs/2511.22226)| ArXiV | **Alexander Meulemans**, **Rajai Nasser**, **Maciej Wołczyk**, **Marissa A. Weis**, **Seijin Kobayashi**, **Blake Richards**, **Guillaume Lajoie**, **Angelika Steger**, Marcus Hutter, James Manyika, **Rif A. Saurous**, **João Sacramento**, **Blaise Agüera y Arcas**| November 27, 2025|
 | [Towards a future space-based, highly scalable AI infrastructure system design](https://services.google.com/fh/files/misc/suncatcher_paper.pdf)| Google |**Blaise Agüera y Arcas**, **Travis Beals**, **Maria Biggs**, **Jessica V. Bloom**, **Thomas Fischbacher**, **Konstantin Gromov**, **Urs Köster**, **Rishiraj Pravahan**, and James Manyika| November 4, 2025|
 | [Not Every AI Problem is a Data Problem: We Should Be Intentional About Data Scaling ](https://dl.acm.org/doi/10.1145/3731656)|  Communications of ACM - Opinion |Tanya Rodchenko, Natasha Noy, **Nino Scherrer**| September 23, 2025|
 | [Life at the boundary of chemical kinetics and program execution](https://journals.aps.org/pre/abstract/10.1103/dyzr-m21s)| Physical Review Journals |**Thomas Fischbacher**| September 11, 2025|
@@ -52,11 +53,13 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [What Is Intelligence? Blaise Agüera y Arcas](https://www.youtube.com/watch?v=fw3Xzb6bga4) | Town Hall Seattle Science Series |November 18, 2025 |
 | [Data Centers in Space + A.I. Policy on the Right + A Gemini History Mystery](https://www.nytimes.com/2025/11/14/podcasts/hardfork-data-center-space.html?smid=nytcore-ios-share&referringSource=articleShare) | Hard Fork - The New York Times |November 14, 2025 |
 | [AI: Blaise Agüera y Arcas, the Google researcher who questions machine consciousness](https://www.lemonde.fr/economie/article/2025/11/14/blaise-aguera-y-arcas-le-chercheur-de-google-qui-s-interroge-sur-l-intelligence-des-machines_6653359_3234.html) | Le Monde |November 14, 2025 |
 | [Is the essence of life computational?](https://www.ft.com/content/c2ebbbf7-09bd-493e-b021-e7bad04f8fa7) |Financial Times | November 5, 2025 |
 | [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/) | The Keyword  | November 4, 2025 |
 | [Meet Project Suncatcher, a research moonshot to scale machine learning compute in space.](https://blog.google/technology/research/google-project-suncatcher/) | Google Research blog | November 4, 2025 |
+| [Blaise Agüera y Arcas – AGI Symbiosis and the Arrow of Intelligence](https://danfaggella.com/arcas1/) | The Trajectory |October 31, 2025 |
 | [Google Researcher Shows Life Emerges From Code](https://www.youtube.com/watch?v=rMSEqJ_4EBk) | Machine Learning Street Talks  | October 21, 2025 |
 | [What Isn’t Intelligence?](https://lareviewofbooks.org/article/what-isnt-intelligence/)| Los Angeles Review of Books  | October 14, 2025 |
 | [Blaise Agüera y Arcas: What Is Intelligence?](https://www.youtube.com/watch?v=KhSJuqDUJME)| The Long Now Foundation  | October 09, 2025 |
