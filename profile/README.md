@@ -54,6 +54,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [What is the future of intelligence? The answer could lie in the story of its evolution](https://www.nature.com/articles/d41586-025-03857-0) | Nature | November 24, 2025 |
 | [What Is Intelligence? Blaise Agüera y Arcas](https://www.youtube.com/watch?v=fw3Xzb6bga4) | Town Hall Seattle Science Series | November 18, 2025 |
 | [Data Centers in Space + A.I. Policy on the Right + A Gemini History Mystery](https://www.nytimes.com/2025/11/14/podcasts/hardfork-data-center-space.html?smid=nytcore-ios-share&referringSource=articleShare) | Hard Fork - The New York Times |November 14, 2025 |
 | [AI: Blaise Agüera y Arcas, the Google researcher who questions machine consciousness](https://www.lemonde.fr/economie/article/2025/11/14/blaise-aguera-y-arcas-le-chercheur-de-google-qui-s-interroge-sur-l-intelligence-des-machines_6653359_3234.html) | Le Monde |November 14, 2025 |
