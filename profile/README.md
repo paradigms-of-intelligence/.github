@@ -54,6 +54,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [On Intelligence and the Origins of Life](https://antikythera.substack.com/p/6b0ec140-9f65-487b-8bf9-2f9dc7cae409?postPreview=paid&updated=2025-11-26T17%3A21%3A30.126Z&audience=everyone&free_preview=false&freemail=true) | Antikythera | December 4, 2025 |
 | [What is the future of intelligence? The answer could lie in the story of its evolution](https://www.nature.com/articles/d41586-025-03857-0) | Nature | November 24, 2025 |
 | [What Is Intelligence? Blaise Agüera y Arcas](https://www.youtube.com/watch?v=fw3Xzb6bga4) | Town Hall Seattle Science Series | November 18, 2025 |
 | [Data Centers in Space + A.I. Policy on the Right + A Gemini History Mystery](https://www.nytimes.com/2025/11/14/podcasts/hardfork-data-center-space.html?smid=nytcore-ios-share&referringSource=articleShare) | Hard Fork - The New York Times |November 14, 2025 |
