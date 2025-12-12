@@ -20,6 +20,8 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
+| [Probabilistic Programming with Vectorized Programmable Inference](https://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inferencehttps://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inference)| POPL 2026 | McCoy Reynolds Becker, Mathieu Huot, George Matheos, Xiaoyan Wang, Karen Chung, Colin Smith, Sam Ritchie, **Rif A. Saurous**, Alexander K. Lew, Martin C. Rinard, Vikash K. Mansinghka| January 16, 2026|
+| [Does Integrated Information Theory (IIT) make experimental predictions about consciousness?](https://osf.io/preprints/psyarxiv/gauqm_v1)| PsyArXiv |David P. Reichert, **Rif A. Saurous**| December 05, 2025|
 | [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](https://arxiv.org/abs/2511.22226)| ArXiV | **Alexander Meulemans**, **Rajai Nasser**, **Maciej Wołczyk**, **Marissa A. Weis**, **Seijin Kobayashi**, **Blake Richards**, **Guillaume Lajoie**, **Angelika Steger**, Marcus Hutter, James Manyika, **Rif A. Saurous**, **João Sacramento**, **Blaise Agüera y Arcas**| November 27, 2025|
 | [Towards a future space-based, highly scalable AI infrastructure system design](https://arxiv.org/abs/2511.19468)| Google |**Blaise Agüera y Arcas**, **Travis Beals**, **Maria Biggs**, **Jessica V. Bloom**, **Thomas Fischbacher**, **Konstantin Gromov**, **Urs Köster**, **Rishiraj Pravahan**, and James Manyika| November 4, 2025|
 | [We need accountability in human–AI agent relationships](https://www.nature.com/articles/s44387-025-00041-7)| Nature - npj Artifical Intelligence | Benjamin Lange, **Geoff Keeling**, Arianna Manzini & Amanda McCroskery | November 5, 2025|
@@ -55,6 +57,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
 | [On Intelligence and the Origins of Life](https://antikythera.substack.com/p/6b0ec140-9f65-487b-8bf9-2f9dc7cae409?postPreview=paid&updated=2025-11-26T17%3A21%3A30.126Z&audience=everyone&free_preview=false&freemail=true) | Antikythera | December 4, 2025 |
+| [Blaise Agüera y Arcas: why AI really is intelligent](https://www.economist.com/podcasts/2025/11/26/blaise-aguera-y-arcas-why-ai-really-is-intelligent) | The Economist| November 26, 2025 |
 | [What is the future of intelligence? The answer could lie in the story of its evolution](https://www.nature.com/articles/d41586-025-03857-0) | Nature | November 24, 2025 |
 | [What Is Intelligence? Blaise Agüera y Arcas](https://www.youtube.com/watch?v=fw3Xzb6bga4) | Town Hall Seattle Science Series | November 18, 2025 |
 | [Data Centers in Space + A.I. Policy on the Right + A Gemini History Mystery](https://www.nytimes.com/2025/11/14/podcasts/hardfork-data-center-space.html?smid=nytcore-ios-share&referringSource=articleShare) | Hard Fork - The New York Times |November 14, 2025 |
