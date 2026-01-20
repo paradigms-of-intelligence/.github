@@ -20,7 +20,8 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
-| [Probabilistic Programming with Vectorized Programmable Inference](https://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inferencehttps://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inference)| POPL 2026 | McCoy Reynolds Becker, Mathieu Huot, George Matheos, Xiaoyan Wang, Karen Chung, Colin Smith, Sam Ritchie, **Rif A. Saurous**, Alexander K. Lew, Martin C. Rinard, Vikash K. Mansinghka| January 16, 2026|
+| [The unreasonable effectiveness of pattern matching](https://arxiv.org/abs/2601.11432)| ArXiv |Gary Lupyan, **Blaise Agüera y Arcas**| January 16, 2026|
+| [Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825)| ArXiv |**Junsol Kim**, Shiyang Lai, **Nino Scherrer**, **Blaise Agüera y Arcas**, **James Evans**| January 15, 2026|
 | [Does Integrated Information Theory (IIT) make experimental predictions about consciousness?](https://osf.io/preprints/psyarxiv/gauqm_v1)| PsyArXiv |David P. Reichert, **Rif A. Saurous**| December 05, 2025|
 | [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](https://arxiv.org/abs/2511.22226)| ArXiV | **Alexander Meulemans**, **Rajai Nasser**, **Maciej Wołczyk**, **Marissa A. Weis**, **Seijin Kobayashi**, **Blake Richards**, **Guillaume Lajoie**, **Angelika Steger**, Marcus Hutter, James Manyika, **Rif A. Saurous**, **João Sacramento**, **Blaise Agüera y Arcas**| November 27, 2025|
 | [Towards a future space-based, highly scalable AI infrastructure system design](https://arxiv.org/abs/2511.19468)| Google |**Blaise Agüera y Arcas**, **Travis Beals**, **Maria Biggs**, **Jessica V. Bloom**, **Thomas Fischbacher**, **Konstantin Gromov**, **Urs Köster**, **Rishiraj Pravahan**, and James Manyika| November 4, 2025|
@@ -56,6 +57,8 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [How Google’s 'internal RL' could unlock long-horizon AI agents](https://venturebeat.com/infrastructure/how-googles-internal-rl-could-unlock-long-horizon-ai-agents) | Venture Beat | Janaury 16, 2026 |
+| [Blaise Agüera y Arcas Conversations Before Midnight 2025](https://www.youtube.com/watch?v=NMCzPf3pW5g) | Bulletin of the Atomic Scientists | December 22, 2025 |
 | [On Intelligence and the Origins of Life](https://antikythera.substack.com/p/6b0ec140-9f65-487b-8bf9-2f9dc7cae409?postPreview=paid&updated=2025-11-26T17%3A21%3A30.126Z&audience=everyone&free_preview=false&freemail=true) | Antikythera | December 4, 2025 |
 | [Blaise Agüera y Arcas: why AI really is intelligent](https://www.economist.com/podcasts/2025/11/26/blaise-aguera-y-arcas-why-ai-really-is-intelligent) | The Economist| November 26, 2025 |
 | [What is the future of intelligence? The answer could lie in the story of its evolution](https://www.nature.com/articles/d41586-025-03857-0) | Nature | November 24, 2025 |
@@ -66,6 +69,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/) | The Keyword  | November 4, 2025 |
 | [Meet Project Suncatcher, a research moonshot to scale machine learning compute in space.](https://blog.google/technology/research/google-project-suncatcher/) | Google Research blog | November 4, 2025 |
 | [Blaise Agüera y Arcas – AGI Symbiosis and the Arrow of Intelligence](https://danfaggella.com/arcas1/) | The Trajectory |October 31, 2025 |
+| [Blaise Agüera y Arcas Artificial Intelligence Is Human, Not Artificial](https://hai.stanford.edu/events/blaise-aguera-y-arcas-artificial-intelligence-is-human-not-artificial?section=watch-event-recording) | Stanford HAI Seminar  | October 29, 2025 |
 | [Google Researcher Shows Life Emerges From Code](https://www.youtube.com/watch?v=rMSEqJ_4EBk) | Machine Learning Street Talks  | October 21, 2025 |
 | [What Isn’t Intelligence?](https://lareviewofbooks.org/article/what-isnt-intelligence/)| Los Angeles Review of Books  | October 14, 2025 |
 | [Blaise Agüera y Arcas: What Is Intelligence?](https://www.youtube.com/watch?v=KhSJuqDUJME)| The Long Now Foundation  | October 09, 2025 |
