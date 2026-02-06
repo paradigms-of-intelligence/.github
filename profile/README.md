@@ -21,6 +21,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
 | [The unreasonable effectiveness of pattern matching](https://arxiv.org/abs/2601.11432)| ArXiv |Gary Lupyan, **Blaise Agüera y Arcas**| January 16, 2026|
+| [Probabilistic Programming with Vectorized Programmable Inference](https://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inference)| POPL 2026 |McCoy Reynolds Becker, Mathieu Huot, George Matheos, Xiaoyan Wang, Karen Chung, Colin Smith, Sam Ritchie, **Rif A. Saurous**, Alexander K. Lew, Martin C. Rinard, Vikash K. Mansinghka| January 16, 2026|
 | [Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825)| ArXiv |**Junsol Kim**, Shiyang Lai, **Nino Scherrer**, **Blaise Agüera y Arcas**, **James Evans**| January 15, 2026|
 | [Does Integrated Information Theory (IIT) make experimental predictions about consciousness?](https://osf.io/preprints/psyarxiv/gauqm_v1)| PsyArXiv |David P. Reichert, **Rif A. Saurous**| December 05, 2025|
 | [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](https://arxiv.org/abs/2511.22226)| ArXiV | **Alexander Meulemans**, **Rajai Nasser**, **Maciej Wołczyk**, **Marissa A. Weis**, **Seijin Kobayashi**, **Blake Richards**, **Guillaume Lajoie**, **Angelika Steger**, Marcus Hutter, James Manyika, **Rif A. Saurous**, **João Sacramento**, **Blaise Agüera y Arcas**| November 27, 2025|
@@ -57,8 +58,10 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [How does artificial intelligence think? The big surprise is that it ‘intuits’](https://english.elpais.com/technology/2026-01-31/how-does-artificial-intelligence-think-the-big-surprise-is-that-it-intuits.html) | El Pais | Janaury 30, 2026 |
 | [How Google’s 'internal RL' could unlock long-horizon AI agents](https://venturebeat.com/infrastructure/how-googles-internal-rl-could-unlock-long-horizon-ai-agents) | Venture Beat | Janaury 16, 2026 |
 | [Blaise Agüera y Arcas Conversations Before Midnight 2025](https://www.youtube.com/watch?v=NMCzPf3pW5g) | Bulletin of the Atomic Scientists | December 22, 2025 |
+| [Google fellow: AI doesn’t pretend to be intelligent. It is.](https://bigthink.com/books/blaise-aguera-y-arcas/) | Big Think | December 05, 2025 |
 | [On Intelligence and the Origins of Life](https://antikythera.substack.com/p/6b0ec140-9f65-487b-8bf9-2f9dc7cae409?postPreview=paid&updated=2025-11-26T17%3A21%3A30.126Z&audience=everyone&free_preview=false&freemail=true) | Antikythera | December 4, 2025 |
 | [Blaise Agüera y Arcas: why AI really is intelligent](https://www.economist.com/podcasts/2025/11/26/blaise-aguera-y-arcas-why-ai-really-is-intelligent) | The Economist| November 26, 2025 |
 | [What is the future of intelligence? The answer could lie in the story of its evolution](https://www.nature.com/articles/d41586-025-03857-0) | Nature | November 24, 2025 |
@@ -71,6 +74,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | [Blaise Agüera y Arcas – AGI Symbiosis and the Arrow of Intelligence](https://danfaggella.com/arcas1/) | The Trajectory |October 31, 2025 |
 | [Blaise Agüera y Arcas Artificial Intelligence Is Human, Not Artificial](https://hai.stanford.edu/events/blaise-aguera-y-arcas-artificial-intelligence-is-human-not-artificial?section=watch-event-recording) | Stanford HAI Seminar  | October 29, 2025 |
 | [Google Researcher Shows Life Emerges From Code](https://www.youtube.com/watch?v=rMSEqJ_4EBk) | Machine Learning Street Talks  | October 21, 2025 |
+| [AGI isn't coming, it is already here: Google's Blaise Aguera y Arcas - Hindustan Times](https://www.hindustantimes.com/business/agi-isn-t-coming-it-is-already-here-google-s-blaise-aguera-y-arcas-101760670382236.html) | Hindustan Times  | October 17, 2025 |
 | [What Isn’t Intelligence?](https://lareviewofbooks.org/article/what-isnt-intelligence/)| Los Angeles Review of Books  | October 14, 2025 |
 | [Blaise Agüera y Arcas: What Is Intelligence?](https://www.youtube.com/watch?v=KhSJuqDUJME)| The Long Now Foundation  | October 09, 2025 |
 | [Is life a form of computation?](https://www.popsci.com/science/is-life-a-form-of-computation/)|  Popular Science | October 5, 2025 |
