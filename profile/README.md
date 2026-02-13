@@ -58,6 +58,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [The Silicon Interior](https://antikythera.substack.com/p/the-silicon-interior) | Antikythera | February 10, 2026 |
 | [How does artificial intelligence think? The big surprise is that it ‘intuits’](https://english.elpais.com/technology/2026-01-31/how-does-artificial-intelligence-think-the-big-surprise-is-that-it-intuits.html) | El Pais | Janaury 30, 2026 |
 | [How Google’s 'internal RL' could unlock long-horizon AI agents](https://venturebeat.com/infrastructure/how-googles-internal-rl-could-unlock-long-horizon-ai-agents) | Venture Beat | Janaury 16, 2026 |
 | [Blaise Agüera y Arcas Conversations Before Midnight 2025](https://www.youtube.com/watch?v=NMCzPf3pW5g) | Bulletin of the Atomic Scientists | December 22, 2025 |
