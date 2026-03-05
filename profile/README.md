@@ -20,6 +20,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
+| [Multi-agent cooperation through in-context co-player inference](https://arxiv.org/abs/2602.16301)| ArXiv |**Marissa A. Weis**, **Maciej Wołczyk**, **Rajai Nasser**, **Rif A. Saurous**, **Blaise Agüera y Arcas**, **João Sacramento**, **Alexander Meulemans**| February 18, 2026|
 | [The unreasonable effectiveness of pattern matching](https://arxiv.org/abs/2601.11432)| ArXiv |Gary Lupyan, **Blaise Agüera y Arcas**| January 16, 2026|
 | [Probabilistic Programming with Vectorized Programmable Inference](https://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inference)| POPL 2026 |McCoy Reynolds Becker, Mathieu Huot, George Matheos, Xiaoyan Wang, Karen Chung, Colin Smith, Sam Ritchie, **Rif A. Saurous**, Alexander K. Lew, Martin C. Rinard, Vikash K. Mansinghka| January 16, 2026|
 | [Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825)| ArXiv |**Junsol Kim**, Shiyang Lai, **Nino Scherrer**, **Blaise Agüera y Arcas**, **James Evans**| January 15, 2026|
