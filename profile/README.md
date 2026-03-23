@@ -66,6 +66,8 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [Dynamic Parameter Reuse Augments Reasoning via Latent Chain of Thought](https://iclr-blogposts.github.io/2026/blog/2026/recur-refine-reason/) | ICLR Blog Post | April 27, 2026 |
+| [Theory of Mind in LLMs](https://aiglossary.co.uk/2026/02/24/theory-of-mind-in-llms/) | Philisophical Glossory of AI  | February 23, 2026 |
 | [Is AI really ‘intelligent’? This philosopher says yes](https://theconversation.com/is-ai-really-intelligent-this-philosopher-says-yes-271721) | The Conversation | February 19, 2026 |
 | [The Silicon Interior](https://antikythera.substack.com/p/the-silicon-interior) | Antikythera | February 10, 2026 |
 | [How does artificial intelligence think? The big surprise is that it ‘intuits’](https://english.elpais.com/technology/2026-01-31/how-does-artificial-intelligence-think-the-big-surprise-is-that-it-intuits.html) | El Pais | Janaury 30, 2026 |
