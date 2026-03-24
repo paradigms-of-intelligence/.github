@@ -74,6 +74,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | [The Silicon Interior](https://antikythera.substack.com/p/the-silicon-interior) | Antikythera | February 10, 2026 |
 | [How does artificial intelligence think? The big surprise is that it ‘intuits’](https://english.elpais.com/technology/2026-01-31/how-does-artificial-intelligence-think-the-big-surprise-is-that-it-intuits.html) | El Pais | Janaury 30, 2026 |
 | [AI models that simulate internal debate dramatically improve accuracy on complex tasks](https://venturebeat.com/orchestration/ai-models-that-simulate-internal-debate-dramatically-improve-accuracy-on) | Venture Beat | January 30, 2026 |
+| [When Patterns Look Like Thought](https://www.psychologytoday.com/us/blog/the-digital-self/202601/when-patterns-look-like-thought) | Psychology Today | Janaury 20, 2026 |
 | [How Google’s 'internal RL' could unlock long-horizon AI agents](https://venturebeat.com/infrastructure/how-googles-internal-rl-could-unlock-long-horizon-ai-agents) | Venture Beat | Janaury 16, 2026 |
 | [Blaise Agüera y Arcas Conversations Before Midnight 2025](https://www.youtube.com/watch?v=NMCzPf3pW5g) | Bulletin of the Atomic Scientists | December 22, 2025 |
 | [Google fellow: AI doesn’t pretend to be intelligent. It is.](https://bigthink.com/books/blaise-aguera-y-arcas/) | Big Think | December 05, 2025 |
