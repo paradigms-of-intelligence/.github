@@ -67,10 +67,13 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
 | [Dynamic Parameter Reuse Augments Reasoning via Latent Chain of Thought](https://iclr-blogposts.github.io/2026/blog/2026/recur-refine-reason/) | ICLR Blog Post | April 27, 2026 |
+| [Where The Internet Lives Podcast - Season Finale: Future of Intelligence](https://datacenters.google/podcast/the-next-leap-for-intelligence/) | Where the Internet Lives - Podcast | March 11, 2026 |
+| [A Conversation with Blaise Agüera y Arcas: On Intelligence, Life, and the Future of AI](https://poggio-lab.mit.edu/blogsupdates/interview-blaise-aguera-y-arcas) | MIT - Poggio Lab | March 09, 2026 |
 | [Theory of Mind in LLMs](https://aiglossary.co.uk/2026/02/24/theory-of-mind-in-llms/) | Philisophical Glossory of AI  | February 23, 2026 |
 | [Is AI really ‘intelligent’? This philosopher says yes](https://theconversation.com/is-ai-really-intelligent-this-philosopher-says-yes-271721) | The Conversation | February 19, 2026 |
 | [The Silicon Interior](https://antikythera.substack.com/p/the-silicon-interior) | Antikythera | February 10, 2026 |
 | [How does artificial intelligence think? The big surprise is that it ‘intuits’](https://english.elpais.com/technology/2026-01-31/how-does-artificial-intelligence-think-the-big-surprise-is-that-it-intuits.html) | El Pais | Janaury 30, 2026 |
+| [AI models that simulate internal debate dramatically improve accuracy on complex tasks](https://venturebeat.com/orchestration/ai-models-that-simulate-internal-debate-dramatically-improve-accuracy-on) | Venture Beat | January 30, 2026 |
 | [How Google’s 'internal RL' could unlock long-horizon AI agents](https://venturebeat.com/infrastructure/how-googles-internal-rl-could-unlock-long-horizon-ai-agents) | Venture Beat | Janaury 16, 2026 |
 | [Blaise Agüera y Arcas Conversations Before Midnight 2025](https://www.youtube.com/watch?v=NMCzPf3pW5g) | Bulletin of the Atomic Scientists | December 22, 2025 |
 | [Google fellow: AI doesn’t pretend to be intelligent. It is.](https://bigthink.com/books/blaise-aguera-y-arcas/) | Big Think | December 05, 2025 |
