@@ -68,6 +68,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | ---- | ---------- | -------|
 | [Dynamic Parameter Reuse Augments Reasoning via Latent Chain of Thought](https://iclr-blogposts.github.io/2026/blog/2026/recur-refine-reason/) | ICLR Blog Post | April 27, 2026 |
 | [Google Research Reveals AI Intelligence Emerges From Simulated Multi-Agent Interactions](https://quantumzeitgeist.com/google-ai-intelligence-research-emerges/) |Quantum Zeitgeist  | March 28, 2026 |
+| [Google finds that AI agents learn to cooperate when trained against unpredictable opponents](https://venturebeat.com/orchestration/google-finds-that-ai-agents-learn-to-cooperate-when-trained-against) |Venture Beat  | March 1, 2026 |
 | [Where The Internet Lives Podcast - Season Finale: Future of Intelligence](https://datacenters.google/podcast/the-next-leap-for-intelligence/) | Where the Internet Lives - Podcast | March 11, 2026 |
 | [A Conversation with Blaise Agüera y Arcas: On Intelligence, Life, and the Future of AI](https://poggio-lab.mit.edu/blogsupdates/interview-blaise-aguera-y-arcas) | MIT - Poggio Lab | March 09, 2026 |
 | [Theory of Mind in LLMs](https://aiglossary.co.uk/2026/02/24/theory-of-mind-in-llms/) | Philisophical Glossory of AI  | February 23, 2026 |
