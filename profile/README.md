@@ -68,6 +68,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
 | [Dynamic Parameter Reuse Augments Reasoning via Latent Chain of Thought](https://iclr-blogposts.github.io/2026/blog/2026/recur-refine-reason/) | ICLR Blog Post | April 27, 2026 |
+| [How the workplace helps you win Survivor](https://www.npr.org/2026/04/14/nx-s1-5784039/how-the-workplace-helps-you-win-survivor) | NPR | April 14, 2026 |
 | [Interview: Blaise Aguera y Arcas, VP and Fellow, Google CTO Technology and Science](https://eandt.theiet.org/2026/03/13/interview-blaise-aguera-y-arcas-vp-and-fellow-google-cto-technology-and-science#rsupsf-filtered=yes&utm_source=latest-in-category) | Engineering and Technology | April 2026 |
 | [Google Research Reveals AI Intelligence Emerges From Simulated Multi-Agent Interactions](https://quantumzeitgeist.com/google-ai-intelligence-research-emerges/) |Quantum Zeitgeist  | March 28, 2026 |
 | [Google finds that AI agents learn to cooperate when trained against unpredictable opponents](https://venturebeat.com/orchestration/google-finds-that-ai-agents-learn-to-cooperate-when-trained-against) |Venture Beat  | March 1, 2026 |
