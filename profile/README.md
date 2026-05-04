@@ -67,6 +67,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [The Science of Ethical and Trustworthy AI](https://viterbischool.usc.edu/news/2026/04/usc-institute-on-ethics-and-trust-in-computing-launched-inaugural-summit/) | USC Viterbi Blog | April 30, 2026 |
 | [Dynamic Parameter Reuse Augments Reasoning via Latent Chain of Thought](https://iclr-blogposts.github.io/2026/blog/2026/recur-refine-reason/) | ICLR Blog Post | April 27, 2026 |
 | [How the workplace helps you win Survivor](https://www.npr.org/2026/04/14/nx-s1-5784039/how-the-workplace-helps-you-win-survivor) | NPR | April 14, 2026 |
 | [Interview: Blaise Aguera y Arcas, VP and Fellow, Google CTO Technology and Science](https://eandt.theiet.org/2026/03/13/interview-blaise-aguera-y-arcas-vp-and-fellow-google-cto-technology-and-science#rsupsf-filtered=yes&utm_source=latest-in-category) | Engineering and Technology | April 2026 |
