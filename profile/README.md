@@ -30,6 +30,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | [Multi-agent cooperation through in-context co-player inference](https://arxiv.org/abs/2602.16301)| ArXiv |**Marissa A. Weis**, **Maciej Wołczyk**, **Rajai Nasser**, **Rif A. Saurous**, **Blaise Agüera y Arcas**, **João Sacramento**, **Alexander Meulemans**| February 18, 2026|
 | [The unreasonable effectiveness of pattern matching](https://arxiv.org/abs/2601.11432)| ArXiv |Gary Lupyan, **Blaise Agüera y Arcas**| January 16, 2026|
 | [Probabilistic Programming with Vectorized Programmable Inference](https://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inference)| POPL 2026 |McCoy Reynolds Becker, Mathieu Huot, George Matheos, Xiaoyan Wang, Karen Chung, Colin Smith, Sam Ritchie, **Rif A. Saurous**, Alexander K. Lew, Martin C. Rinard, Vikash K. Mansinghka| January 16, 2026|
+| [Uncovering Competency Gaps in Large Language Models and Their Benchmark](https://arxiv.org/abs/2512.20638)| ArXiv | Matyas Bohacek, **Nino Scherrer**, Nicholas Dufour, Thomas Leung, Christoph Bregler, Stephanie C. Y. Chan| December 05, 2025|
 | [Do Depth-Grown Models Overcome the Curse of Depth? An In-Depth Analysis](https://arxiv.org/abs/2512.08819)| ArXiv | Ferdinand Kapl, Emmanouil Angelis, Tobias Höppe, **Kaitlin Maile**, **Johannes von Oswald**, **Nino Scherrer**, Stefan Bauer| December 9, 2025|
 | [Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825)| ArXiv |**Junsol Kim**, Shiyang Lai, **Nino Scherrer**, **Blaise Agüera y Arcas**, **James Evans**| January 15, 2026|
 | [Does Integrated Information Theory (IIT) make experimental predictions about consciousness?](https://osf.io/preprints/psyarxiv/gauqm_v1)| PsyArXiv |David P. Reichert, **Rif A. Saurous**| December 05, 2025|
@@ -67,6 +68,8 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [Paradigm Shifts, AI Agents, and a New Era of Uncertainty: Understanding AI Research and the Origins of Intelligence](https://businessreview.studentorg.berkeley.edu/paradigm-shifts-ai-agents-and-a-new-era-of-uncertainty-understanding-ai-research-and-the-origins-of-intelligence/) | Business Review at Berkeley | May 19, 2026 |
+| [Why the future of AI is also local](https://www.undp.org/eurasia/blog/why-future-ai-also-local) | UNDP Europe and Central Asia | May 11, 2026 |
 | [The Science of Ethical and Trustworthy AI](https://viterbischool.usc.edu/news/2026/04/usc-institute-on-ethics-and-trust-in-computing-launched-inaugural-summit/) | USC Viterbi Blog | April 30, 2026 |
 | [Dynamic Parameter Reuse Augments Reasoning via Latent Chain of Thought](https://iclr-blogposts.github.io/2026/blog/2026/recur-refine-reason/) | ICLR Blog Post | April 27, 2026 |
 | [How the workplace helps you win Survivor](https://www.npr.org/2026/04/14/nx-s1-5784039/how-the-workplace-helps-you-win-survivor) | NPR | April 14, 2026 |
