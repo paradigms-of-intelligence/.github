@@ -20,6 +20,9 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
+| [Uncovering Competency Gaps in Large Language Models and Their Benchmarks](https://arxiv.org/abs/2512.20638)| ICML 2026 | Maty Bohacek, **Nino Scherrer**, Nicholas Dufour, Thomas Leung, Christoph Bregler, Stephanie C. Y. Chan| July 09, 2026|
+| [Human-AI Coexistence](https://philarchive.org/rec/CAVHCQ)|  PhilArchive  | Lucius Caviola, **Geoff Keeling**, **Winnie Street**, Henry Shevlin| June 08, 2026|
+| [Psychological Coupling: The Necessary Science of Human-AI Interaction’](https://osf.io/preprints/psyarxiv/695gp_v1)| PsyArXiv  | **Roberta Rocca**, **Winnie Street**, **Geoff Keeling**, **James Evans**| June 03, 2026|
 | [Probabilistic Programming with Vectorized Programmable Inference](https://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inferencehttps://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inference)| POPL 2026 | McCoy Reynolds Becker, Mathieu Huot, George Matheos, Xiaoyan Wang, Karen Chung, Colin Smith, Sam Ritchie, **Rif A. Saurous**, Alexander K. Lew, Martin C. Rinard, Vikash K. Mansinghka| January 16, 2026|
 | [Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://arxiv.org/abs/2512.20605)| ArXiV |**Seijin Kobayashi**, **Yanick Schimpf**, **Maximilian Schlegel**, **Angelika Steger**, **Maciej Wołczyk**, **Johannes von Oswald**, **Nino Scherrer**, **Kaitlin Maile**, **Guillaume Lajoie**, **Blake Richards**, **Rif A. Saurous**, James Manyika, **Blaise Aguera y Arcas**, **Alexander Meulemans**, **João Sacramento**| December 24, 2025|
 | [Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs](https://arxiv.org/pdf/2603.28925)| ArXiv |**Junsol Kim**, **Winnie Street**, **Roberta Roccaa**, Diane M. Korngiebeld, Adam Waytzf, **James Evans**, **Geoff Keelinga**| March 30, 2026|
@@ -68,6 +71,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [AI Doesn't Feel. So Why Does It Have Something Like Emotions?](https://time.com/article/2026/06/15/ai-minds-consciousness-emotion/) | TIME | June 15, 2026 |
 | [Paradigm Shifts, AI Agents, and a New Era of Uncertainty: Understanding AI Research and the Origins of Intelligence](https://businessreview.studentorg.berkeley.edu/paradigm-shifts-ai-agents-and-a-new-era-of-uncertainty-understanding-ai-research-and-the-origins-of-intelligence/) | Business Review at Berkeley | May 19, 2026 |
 | [Why the future of AI is also local](https://www.undp.org/eurasia/blog/why-future-ai-also-local) | UNDP Europe and Central Asia | May 11, 2026 |
 | [The Science of Ethical and Trustworthy AI](https://viterbischool.usc.edu/news/2026/04/usc-institute-on-ethics-and-trust-in-computing-launched-inaugural-summit/) | USC Viterbi Blog | April 30, 2026 |
