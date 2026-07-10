@@ -71,6 +71,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [We Merged With Machines a Long Time Ago - Google’s Blaise Agüera y Arcas & Physicist Carlo Rovelli](https://www.youtube.com/watch?v=tDccIoz-SFI) | Futurology and Berggruen Institute | July 7, 2026 |
 | [AI Doesn't Feel. So Why Does It Have Something Like Emotions?](https://time.com/article/2026/06/15/ai-minds-consciousness-emotion/) | TIME | June 15, 2026 |
 | [Paradigm Shifts, AI Agents, and a New Era of Uncertainty: Understanding AI Research and the Origins of Intelligence](https://businessreview.studentorg.berkeley.edu/paradigm-shifts-ai-agents-and-a-new-era-of-uncertainty-understanding-ai-research-and-the-origins-of-intelligence/) | Business Review at Berkeley | May 19, 2026 |
 | [Why the future of AI is also local](https://www.undp.org/eurasia/blog/why-future-ai-also-local) | UNDP Europe and Central Asia | May 11, 2026 |
@@ -82,6 +83,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | [Google finds that AI agents learn to cooperate when trained against unpredictable opponents](https://venturebeat.com/orchestration/google-finds-that-ai-agents-learn-to-cooperate-when-trained-against) |Venture Beat  | March 1, 2026 |
 | [Where The Internet Lives Podcast - Season Finale: Future of Intelligence](https://datacenters.google/podcast/the-next-leap-for-intelligence/) | Where the Internet Lives - Podcast | March 11, 2026 |
 | [A Conversation with Blaise Agüera y Arcas: On Intelligence, Life, and the Future of AI](https://poggio-lab.mit.edu/blogsupdates/interview-blaise-aguera-y-arcas) | MIT - Poggio Lab | March 09, 2026 |
+| [Is AI really ‘intelligent’? This philosopher says yes](https://eastleighvoice.co.ke/technology/301434/is-ai-really-intelligent-this-philosopher-says-yes) | East Leigh Voice | February 26, 2026 |
 | [Theory of Mind in LLMs](https://aiglossary.co.uk/2026/02/24/theory-of-mind-in-llms/) | Philisophical Glossory of AI  | February 23, 2026 |
 | [Is AI really ‘intelligent’? This philosopher says yes](https://theconversation.com/is-ai-really-intelligent-this-philosopher-says-yes-271721) | The Conversation | February 19, 2026 |
 | [The Silicon Interior](https://antikythera.substack.com/p/the-silicon-interior) | Antikythera | February 10, 2026 |
