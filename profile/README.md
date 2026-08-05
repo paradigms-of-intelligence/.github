@@ -20,38 +20,65 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
+| [Towards a future space-based, highly scalable AI infrastructure system design](https://arxiv.org/abs/2511.19468)| Google |**Blaise Agüera y Arcas**, **Travis Beals**, **Maria Biggs**, **Jessica V. Bloom**, **Thomas Fischbacher**, **Konstantin Gromov**, **Urs Köster**, **Rishiraj Pravahan**, and James Manyika| November 4, 2025|
+| [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](https://arxiv.org/abs/2511.22226)| ArXiV | **Alexander Meulemans**, **Rajai Nasser**, **Maciej Wołczyk**, **Marissa A. Weis**, **Seijin Kobayashi**, **Blake Richards**, **Guillaume Lajoie**, **Angelika Steger**, Marcus Hutter, James Manyika, **Rif A. Saurous**, **João Sacramento**, **Blaise Agüera y Arcas**| November 27, 2025|
+| [Inducing language models to assert their own consciousness restores human beliefs and values](https://arxiv.org/abs/2607.28607)| ArXiv | **Junsol Kim**, **Winnie Street**, **Roberta Rocca**, Diane M. Korngiebel, Adam Waytz, **James Evans**, **Geoff Keeling**| July 30, 2026|
+| [IBFF: Simple explanations for complex phenomena](https://arxiv.org/abs/2607.01483)| ArXiv | **Charlotte Knierim**, **Luca Versari**, **Robert Obryk**, **Blaise Agüera y Arcas**, **Rif A. Saurous**| July 01, 2026|
 | [Uncovering Competency Gaps in Large Language Models and Their Benchmarks](https://arxiv.org/abs/2512.20638)| ICML 2026 | Maty Bohacek, **Nino Scherrer**, Nicholas Dufour, Thomas Leung, Christoph Bregler, Stephanie C. Y. Chan| July 09, 2026|
+| [AI usage patterns are shaped by perceived gains in human agency](https://arxiv.org/abs/2607.02313)| ArXiv | Ian Beacock, Rachel Xu, Laura Murray, Patrick Anson, Beth Goldberg, Devika Kumar, Jun Lee, Rebekah Park, **Anoop Sinha**| July 02, 2026|
+| [Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action](https://arxiv.org/abs/2606.31916)| ICML 2026 Workshop | Ben Slater, Matteo G. Mecattaf, Lucy G. Cheke, John Burden, **Winnie Street**| June 30, 2026|
+| [Co-evolution of self-replication and function in a digital primordial soup](https://arxiv.org/abs/2607.09211)|  ArXiv  | **Francesco Cicala**, **Eyvind Niklasson**, **Ettore Randazzo**, **Sami Boukortt**, Alessio Basti, **Mayalen Etcheverry**, **Rif A. Saurous**, Ben Laurie, James Manyika, **Blaise Aguera-Arcas**, **Blake Richards**| June 25, 2026|
+| [Multi-Modal Multi-Agent Robotic Cognitive Alignment enabled by Non-Invasive Consumer Brain Computer Interfaces: A Proof of Concept Exploration](https://arxiv.org/abs/2606.13190)|  ArXiv  | **Nataliya Kosmyna**, **Liz Jenkins**, **Anoop K. Sinha**| June 11, 2026|
 | [Human-AI Coexistence](https://philarchive.org/rec/CAVHCQ)|  PhilArchive  | Lucius Caviola, **Geoff Keeling**, **Winnie Street**, Henry Shevlin| June 08, 2026|
+| [AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions](https://icml.cc/virtual/2026/poster/61770)| ICML 2026  | **Esteban Real**, Mirko Rossini, Connal de Souza, Manav Garg, **Moritz Firsching**, Quoc V. Le, Yao Chen, Akhil Verghese, Ekin Dogus Cubuk, David H. Park | June 02, 2026|
 | [Psychological Coupling: The Necessary Science of Human-AI Interaction’](https://osf.io/preprints/psyarxiv/695gp_v1)| PsyArXiv  | **Roberta Rocca**, **Winnie Street**, **Geoff Keeling**, **James Evans**| June 03, 2026|
+| [Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics](https://arxiv.org/abs/2605.13171)| ArXiv  | **Moritz Firsching**, Paul Lezeau, Salvatore Mercuri, Miklós Z. Horváth, Yaël Dillies, Calle Sönne, Eric Wieser, Fred Zhang, Thomas Hubert, **Blaise Agüera y Arcas**, Pushmeet Kohli| May 13, 2026|
+| [Reshaping Undergraduate Computer Science Education in the Generative AI Era](https://arxiv.org/abs/2606.07545)| ArXiv  | Yi-Chieh Lee, Nattapat Boonprakong, Yugin Tan, Harold Soh, Alex Potanin, Viraj Kumar, **Anoop K. Sinha**, Chen Qian, Paul Denny, Mennatallah El-Assady, Ian Oakley, Jake Renzella, Amy Zhang, Jat Singh, Wee Sun Lee, Hsuan-Tien Lin, Jane L. E, Anthony Tang, Margaret M. Burnett, Sowmya Somanath, Renwen Zhang, Vicky Charisi, Alexandra I. Cristea| June 11, 2026|
 | [Probabilistic Programming with Vectorized Programmable Inference](https://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inferencehttps://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inference)| POPL 2026 | McCoy Reynolds Becker, Mathieu Huot, George Matheos, Xiaoyan Wang, Karen Chung, Colin Smith, Sam Ritchie, **Rif A. Saurous**, Alexander K. Lew, Martin C. Rinard, Vikash K. Mansinghka| January 16, 2026|
 | [Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://arxiv.org/abs/2512.20605)| ArXiV |**Seijin Kobayashi**, **Yanick Schimpf**, **Maximilian Schlegel**, **Angelika Steger**, **Maciej Wołczyk**, **Johannes von Oswald**, **Nino Scherrer**, **Kaitlin Maile**, **Guillaume Lajoie**, **Blake Richards**, **Rif A. Saurous**, James Manyika, **Blaise Aguera y Arcas**, **Alexander Meulemans**, **João Sacramento**| December 24, 2025|
 | [Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs](https://arxiv.org/pdf/2603.28925)| ArXiv |**Junsol Kim**, **Winnie Street**, **Roberta Roccaa**, Diane M. Korngiebeld, Adam Waytzf, **James Evans**, **Geoff Keelinga**| March 30, 2026|
 | [Agentic AI and the next intelligence explosion](https://www.science.org/doi/10.1126/science.aeg1895)| Science |James Evans, Benjamin Bratton, and Blaise Agüera y Arcas| March 19, 2026|
 | [Architecting Trust in Artificial Epistemic Agents](https://arxiv.org/pdf/2603.02960)| ArXiv |Nahema Marchal, Stephanie Chan, Matija Franklin, Manon Revel1, **Geoff Keeling**, Roberta Fischli, Bilva, Chandra and Iason Gabriel1| March 04, 2026|
 | [From Words to Amino Acids: Does the Curse of Depth Persist?](https://arxiv.org/abs/2602.21750)| ArXiv |FAleena Siji, Amir Mohammad Karimi Mamaghan, Ferdinand Kapl, Tobias Höppe, Emmanouil Angelis, Andrea Dittadi, Maurice Brenner, Michael Heinzinger, Karl Henrik Johansson, **Kaitlin Maile**, **Johannes von Oswald**, Stefan Bauer| February 25, 2026|
-| [From Growing to Looping: A Unified View of Iterative Computation in LLMs](https://arxiv.org/abs/2602.16490)| ArXiv |Ferdinand Kapl, Emmanouil Angelis, **Kaitlin Maile**, **Johannes von Oswald**, Stefan Bauer| February 18, 2026|
+| [From Growing to Looping: A Unified View of Iterative Computation in LLMs](https://arxiv.org/abs/2602.16490)| ICML |Ferdinand Kapl, Emmanouil Angelis, **Kaitlin Maile**, **Johannes von Oswald**, Stefan Bauer| February 18, 2026|
 | [Multi-agent cooperation through in-context co-player inference](https://arxiv.org/abs/2602.16301)| ArXiv |**Marissa A. Weis**, **Maciej Wołczyk**, **Rajai Nasser**, **Rif A. Saurous**, **Blaise Agüera y Arcas**, **João Sacramento**, **Alexander Meulemans**| February 18, 2026|
+| [Making Videos Accessible for Blind and Low Vision Users Using a Multimodal Agent Video Player](https://arxiv.org/abs/2602.04104)| ArXiv | Adriana Olmos, **Anoop K. Sinha**, Renelito Delos Santos, Ruben Rodriguez Rodriguez, **James A. Landay**, Sam S. Sepah, Philip Nelson, Shaun K. Kane| February 4, 2026|
 | [The unreasonable effectiveness of pattern matching](https://arxiv.org/abs/2601.11432)| ArXiv |Gary Lupyan, **Blaise Agüera y Arcas**| January 16, 2026|
 | [Probabilistic Programming with Vectorized Programmable Inference](https://popl26.sigplan.org/details/POPL-2026-popl-research-papers/89/Probabilistic-Programming-with-Vectorized-Programmable-Inference)| POPL 2026 |McCoy Reynolds Becker, Mathieu Huot, George Matheos, Xiaoyan Wang, Karen Chung, Colin Smith, Sam Ritchie, **Rif A. Saurous**, Alexander K. Lew, Martin C. Rinard, Vikash K. Mansinghka| January 16, 2026|
-| [Uncovering Competency Gaps in Large Language Models and Their Benchmark](https://arxiv.org/abs/2512.20638)| ArXiv | Matyas Bohacek, **Nino Scherrer**, Nicholas Dufour, Thomas Leung, Christoph Bregler, Stephanie C. Y. Chan| December 05, 2025|
-| [Do Depth-Grown Models Overcome the Curse of Depth? An In-Depth Analysis](https://arxiv.org/abs/2512.08819)| ArXiv | Ferdinand Kapl, Emmanouil Angelis, Tobias Höppe, **Kaitlin Maile**, **Johannes von Oswald**, **Nino Scherrer**, Stefan Bauer| December 9, 2025|
+| [Do Depth-Grown Models Overcome the Curse of Depth? An In-Depth Analysis](https://arxiv.org/abs/2512.08819)| COLM 2026  | Ferdinand Kapl, Emmanouil Angelis, Tobias Höppe, **Kaitlin Maile**, **Johannes von Oswald**, **Nino Scherrer**, Stefan Bauer| December 9, 2025|
 | [Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825)| ArXiv |**Junsol Kim**, Shiyang Lai, **Nino Scherrer**, **Blaise Agüera y Arcas**, **James Evans**| January 15, 2026|
+| [Human-AI Interaction Alignment: Designing, Evaluating, and Evolving Value-Centered AI For Reciprocal Human-AI Futures](https://arxiv.org/abs/2512.21551| CHI 2026 | Hua Shen, Tiffany Knearem, Divy Thakkar, Pat Pataranutaporn, **Anoop Sinha**, Yike CassandraShi, Jenny T. Liang, Lama Ahmad, Tanu Mitra, Brad A. Myers, Yang Li| December 25, 2025|
+| [MesaNet: Sequence Modeling by Locally Optimal Test-Time Training](https://arxiv.org/abs/2506.05233)|  ICLR 2026 |**Johannes von Oswald**, **Nino Scherrer**, **Seijin Kobayashi**, **Luca Versari**, Songlin Yang, **Maximilian Schlegel**, **Kaitlin Maile**, **Yanick Schimpf**, Oliver Sieberling, **Alexander Meulemans**, **Rif A. Saurous**, **Guillaume Lajoie**, **Charlotte Frenkel**, Razvan Pascanu, **Blaise Agüera y Arcas**, **João Sacramento**| June 5, 2025|
+
+* **Bold text** indicates author is a member of the Paradigms of Intelligence team at Google
+
+<details>
+  <summary> 2025 Publications </summary>
+
+| Title | Publication |  Author(s) | Publication Date|
+| ---- | ---------- | -------| ----- | 
 | [Does Integrated Information Theory (IIT) make experimental predictions about consciousness?](https://osf.io/preprints/psyarxiv/gauqm_v1)| PsyArXiv |David P. Reichert, **Rif A. Saurous**| December 05, 2025|
 | [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](https://arxiv.org/abs/2511.22226)| ArXiV | **Alexander Meulemans**, **Rajai Nasser**, **Maciej Wołczyk**, **Marissa A. Weis**, **Seijin Kobayashi**, **Blake Richards**, **Guillaume Lajoie**, **Angelika Steger**, Marcus Hutter, James Manyika, **Rif A. Saurous**, **João Sacramento**, **Blaise Agüera y Arcas**| November 27, 2025|
-| [Towards a future space-based, highly scalable AI infrastructure system design](https://arxiv.org/abs/2511.19468)| Google |**Blaise Agüera y Arcas**, **Travis Beals**, **Maria Biggs**, **Jessica V. Bloom**, **Thomas Fischbacher**, **Konstantin Gromov**, **Urs Köster**, **Rishiraj Pravahan**, and James Manyika| November 4, 2025|
 | [We need accountability in human–AI agent relationships](https://www.nature.com/articles/s44387-025-00041-7)| Nature - npj Artifical Intelligence | Benjamin Lange, **Geoff Keeling**, Arianna Manzini & Amanda McCroskery | November 5, 2025|
 | [Not Every AI Problem is a Data Problem: We Should Be Intentional About Data Scaling ](https://dl.acm.org/doi/10.1145/3731656)|  Communications of ACM - Opinion |Tanya Rodchenko, Natasha Noy, **Nino Scherrer**| September 23, 2025|
 | [Life at the boundary of chemical kinetics and program execution](https://journals.aps.org/pre/abstract/10.1103/dyzr-m21s)| Physical Review Journals |**Thomas Fischbacher**| September 11, 2025|
 | [We need a new ethics for a world of AI agents](https://www.nature.com/articles/d41586-025-02454-5)| Nature| Iason Gabriel, **Geoff Keeling**, Arianna Manzini, **James Evans** |  August 4, 2025 |
 | [When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors](https://arxiv.org/abs/2507.05246)|  ArXiV |Scott Emmons, Erik Jenner, David K. Elson, **Rif A. Saurous**, Senthooran Rajamanoharan, Heng Chen, Irhum Shafkat, Rohin Shah| July 7, 2025|
 | [Tracing the representation geometry of language models from pretraining to post-training](https://openreview.net/forum?id=9nKmDLXg9v) | openreview.net | Melody Zixuan Li, Kumar Krishna Agrawal, **Arna Ghosh**, Komal Kumar Teru, **Guillaume Lajoie**, **Blake Aaron Richards** | June 9, 2025 |
-| [MesaNet: Sequence Modeling by Locally Optimal Test-Time Training](https://arxiv.org/abs/2506.05233)|  ArXiV |**Johannes von Oswald**, **Nino Scherrer**, **Seijin Kobayashi**, **Luca Versari**, Songlin Yang, **Maximilian Schlegel**, **Kaitlin Maile**, **Yanick Schimpf**, Oliver Sieberling, **Alexander Meulemans**, **Rif A. Saurous**, **Guillaume Lajoie**, **Charlotte Frenkel**, Razvan Pascanu, **Blaise Agüera y Arcas**, **João Sacramento**| June 5, 2025|
 | [A matter of principle? AI alignment as the fair treatment of claims](https://link.springer.com/article/10.1007/s11098-025-02300-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250330&utm_content=10.1007%2Fs11098-025-02300-4) | Philosophical Studies |Iason Gabriel, **Geoff Keeling**| March 30, 2025|
 | [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/) | Interactive Article +|**Pietro Miotti**, **Eyvind Niklasson**, **Ettore Randazzo**, **Alexander Mordvintsev** | March 3, 2025|
 | [Weight decay induces low-rank attention layers](https://arxiv.org/abs/2410.23819)|  Neurips 2024 |**Seijin Kobayashi**, Yassir Akram, **Johannes Von Oswald**| October 31, 2024|
-| [Multi-agent cooperation through learning-aware policy gradients](https://arxiv.org/abs/2410.18636)| 7th Montreal AI & Neuroscience conference |**Alexander Meulemans**, **Seijin Kobayashi**, **Johannes von Oswald**, **Nino Scherrer**, **Eric Elmoznino**, **Blake Richards**, **Guillaume Lajoie**, **Blaise Agüera y Arcas**, **João Sacramento**| October 24, 2024|
-| [The Code That Binds Us: Navigating the Appropriateness of Human-AI Assistant Relationships](https://ojs.aaai.org/index.php/AIES/article/view/31694) | AAAI/ACM Conference on AI, Ethics, and Society | Arianna Manzini, **Geoff Keeling**, Lize Alberts (Oxford),Shannon Vallor (Edinburgh), 	Meredith Ringel Morris,  Iason Gabriel, | October 16, 2024|
 | [Learning Randomized Algorithms with Transformers](https://arxiv.org/abs/2408.10818)|ICLR 2025| **Johannes von Oswald**, **Seijin Kobayashi**, Yassir Akram, **Angelika Steger**| January 22, 2025|
+
+
+</details>
+
+
+<details>
+  <summary>2024 Publications</summary>
+  
+| Title | Publication |  Author(s) | Publication Date|
+| ---- | ---------- | -------| ----- | 
 | [AI Mental Models & Trust ](https://www.epicpeople.org/ai-mental-models-and-trust/)|  Ethnography Praxis in Industry Conference | Soojin Jeong, **Anoop Sinha**| August 18, 2024|
 | [Emergent Multiscale Structures and Generative Potential of Isotropic Neural Cellular Automata](https://direct.mit.edu/isal/proceedings/isal2024/36/28/123503)|  ALIFE 2024  |**Alexander Mordvintsev**, **Eyvind Niklasson**| July 22, 2024|
 | [On the attribution of confidence to large language models](https://arxiv.org/abs/2407.08388) | Inquiry | **Geoff Keeling**, **Winnie Street** | July 11, 2024|
@@ -59,30 +86,37 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | [Uncovering mesa-optimization algorithms in Transformers](https://arxiv.org/abs/2309.05858)|  ArXiV |**Johannes von Oswald**, **Maximilian Schlegel**, **Alexander Meulemans**, **Seijin Kobayashi**, **Eyvind Niklasson**, Nicolas Zucchet, **Nino Scherrer**, Nolan Miller, Mark Sandler, **Blaise Agüera y Arcas**, Max Vladymyrov, Razvan Pascanu, **João Sacramento**| October 15, 2024|
 | [Attention as a Hypernetwork](https://arxiv.org/abs/2406.05816) | ICLR 2025 |Simon Schug, **Seijin Kobayashi**, Yassir Akram, **João Sacramento**, Razvan Pascanu| October 10, 2024|
 | [How Children Understand AI - A Comparative Study of Children’s Metal Models of Generative AI](https://arxiv.org/abs/2405.13081)|  ArXiV |Eliza Kosoy, Soojin Jeong, **Anoop Sinha**, Alison Gopnik, Tanya Kraljic| September 12, 2024|
+| [Multi-agent cooperation through learning-aware policy gradients](https://arxiv.org/abs/2410.18636)| 7th Montreal AI & Neuroscience conference |**Alexander Meulemans**, **Seijin Kobayashi**, **Johannes von Oswald**, **Nino Scherrer**, **Eric Elmoznino**, **Blake Richards**, **Guillaume Lajoie**, **Blaise Agüera y Arcas**, **João Sacramento**| October 24, 2024|
+| [The Code That Binds Us: Navigating the Appropriateness of Human-AI Assistant Relationships](https://ojs.aaai.org/index.php/AIES/article/view/31694) | AAAI/ACM Conference on AI, Ethics, and Society | Arianna Manzini, **Geoff Keeling**, Lize Alberts (Oxford),Shannon Vallor (Edinburgh), 	Meredith Ringel Morris,  Iason Gabriel, | October 16, 2024|
 | [Computational Substrates: How Well-formed Self Replicating Programs Emerge from Simple Interactions](https://arxiv.org/abs/2406.19108)|  ArXiV |**Blaise Aguera-Arcas**, **Jyrki Alakuijala**, **James Evans**, Ben Laurie, **Alexander Mordvintsev**, **Eyvind Niklasson**, **Ettore Randazzo**, **Luca Versari**| June 27, 2024|
 | [State Soup: In-Context Skill Learning, Retrieval and Mixing](https://arxiv.org/abs/2406.08423)|  ArXiV |Maciej Pióro, **Maciej Wołczyk**, Razvan Pascanu, **Johannes von Oswald**, **João Sacramento**| June 12, 2024|
 | [Should Users Trust Advanced AI Assistants? Justified Trust As a Function of Competence and Alignment](https://facctconference.org/static/papers24/facct24-79.pdf)|  ACM FAccT |Arianna Manzini, **Geoff Keeling**, Nahema Marchal, Kevin R. McKee, Verena Rieser, Iason Gabriel| June 3, 2024|
 | [Should agentic conversational AI change how we think about ethics? Characterising an interactional ethics centred on respect  ](https://arxiv.org/abs/2401.09082v2)|  ArXiV |Lize Alberts, **Geoff Keeling**, Amanda McCroskery| May 16, 2024|
 | [The Ethics of Advanced AI Assistants ](https://arxiv.org/pdf/2404.16244)|  ArXiV |Iason Gabriel, Arianna Manzini, **Geoff Keeling**, Lisa Anne Hendricks, Verena Rieser, Hasan Iqbal, Nenad Tomašev, Ira Ktena, Zachary Kenton, Mikel Rodriguez, Seliem El-Sayed, Sasha Brown, Canfer Akbulut, Andrew Trask, Edward Hughes, A. Stevie Bergman, Renee Shelby, Nahema Marchal, Conor Griffin, Juan Mateos-Garcia, Laura Weidinger, **Winnie Street**, Benjamin Lange, Alex Ingerman, Alison Lentz, Reed Enger, Andrew Barakat, Victoria Krakovna, John Oliver Siy, Zeb Kurth-Nelson, Amanda McCroskery, Vijay Bolina, Harry Law, Murray Shanahan, Lize Alberts, Borja Balle, Sarah de Haas, Yetunde Ibitoye, Allan Dafoe, Beth Goldberg, Sébastien Krier, Alexander Reese, Sims Witherspoon, Will Hawkins, Maribeth Rauh, Don Wallace, Matija Franklin, Josh A. Goldstein, Joel Lehman, Michael Klenk, Shannon Vallor, Courtney Biles, Meredith Ringel Morris, Helen King, **Blaise Agüera y Arcas**, William Isaac, James Manyika| April 28, 2024|
 | [A Mechanism-Based Approach to Mitigating Harms from Persuasive Generative AI ](https://arxiv.org/pdf/2404.15058)|  ArXiV |Seliem El-Sayed, Canfer Akbulut, Amanda McCroskery, **Geoff Keeling**, Zachary Kenton, Zaria Jalan, Nahema Marchal, Arianna Manzini, Toby Shevlane, Shannon Vallor, Daniel Susser, Matija Franklin, Sophie Bridgers, Harry Law, Matthew Rahtz, Murray Shanahan, Michael Henry Tessler, Arthur Douillard, Tom Everitt, Sasha Brown| April 23, 2024|
-* **Bold text** indicates author is a member of the Paradigms of Intelligence team at Google
-
+    
+</details>
 
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [Should A.I. Move to Space](https://open.spotify.com/episode/24uSalb8Ev3gp1K5lUNu8u) | Freakonomics | July 31, 2026 |
+| [Overcoming your fears - Yul Kwon](https://open.spotify.com/episode/3PeYG56I2wVKfZTjMHltt6?si=lbxR8F5aS1-OLYIm10qiRA&nd=1&dlsi=76fe90aa6ca440b2) | Hyphen Nation | July 20, 2026 |
+| [Google AI and NeuroContext](https://cloudonair.withgoogle.com/events/ai-live-and-labs-seoul-2026) | Google Cloud AI + Live and Labs | July 14, 2026 |
 | [We Merged With Machines a Long Time Ago - Google’s Blaise Agüera y Arcas & Physicist Carlo Rovelli](https://www.youtube.com/watch?v=tDccIoz-SFI) | Futurology and Berggruen Institute | July 7, 2026 |
 | [AI Doesn't Feel. So Why Does It Have Something Like Emotions?](https://time.com/article/2026/06/15/ai-minds-consciousness-emotion/) | TIME | June 15, 2026 |
 | [Paradigm Shifts, AI Agents, and a New Era of Uncertainty: Understanding AI Research and the Origins of Intelligence](https://businessreview.studentorg.berkeley.edu/paradigm-shifts-ai-agents-and-a-new-era-of-uncertainty-understanding-ai-research-and-the-origins-of-intelligence/) | Business Review at Berkeley | May 19, 2026 |
 | [Why the future of AI is also local](https://www.undp.org/eurasia/blog/why-future-ai-also-local) | UNDP Europe and Central Asia | May 11, 2026 |
 | [The Science of Ethical and Trustworthy AI](https://viterbischool.usc.edu/news/2026/04/usc-institute-on-ethics-and-trust-in-computing-launched-inaugural-summit/) | USC Viterbi Blog | April 30, 2026 |
 | [Dynamic Parameter Reuse Augments Reasoning via Latent Chain of Thought](https://iclr-blogposts.github.io/2026/blog/2026/recur-refine-reason/) | ICLR Blog Post | April 27, 2026 |
+| [NeuroContext: Exploratory research on cognitive enhancement for AI agents](https://docs.google.com/presentation/d/1qOHQ0Yn9vH65C9EozjV7CG6PcoHFWagxTUgArPeeenE/edit?slide=id.g3d242c39ce5_0_1#slide=id.g3d242c39ce5_0_1) | Google Cloud Next | April 22, 2026 |
 | [How the workplace helps you win Survivor](https://www.npr.org/2026/04/14/nx-s1-5784039/how-the-workplace-helps-you-win-survivor) | NPR | April 14, 2026 |
 | [Interview: Blaise Aguera y Arcas, VP and Fellow, Google CTO Technology and Science](https://eandt.theiet.org/2026/03/13/interview-blaise-aguera-y-arcas-vp-and-fellow-google-cto-technology-and-science#rsupsf-filtered=yes&utm_source=latest-in-category) | Engineering and Technology | April 2026 |
 | [Google Research Reveals AI Intelligence Emerges From Simulated Multi-Agent Interactions](https://quantumzeitgeist.com/google-ai-intelligence-research-emerges/) |Quantum Zeitgeist  | March 28, 2026 |
-| [Google finds that AI agents learn to cooperate when trained against unpredictable opponents](https://venturebeat.com/orchestration/google-finds-that-ai-agents-learn-to-cooperate-when-trained-against) |Venture Beat  | March 1, 2026 |
+| [Multmiodal Agent Interfaces](https://www.linkedin.com/posts/stanfordhai_from-replacement-to-enhancement-a-human-centered-activity-7443371953467527168--R1U) |NVIDIA GTC  | March 16, 2026 |
 | [Where The Internet Lives Podcast - Season Finale: Future of Intelligence](https://datacenters.google/podcast/the-next-leap-for-intelligence/) | Where the Internet Lives - Podcast | March 11, 2026 |
 | [A Conversation with Blaise Agüera y Arcas: On Intelligence, Life, and the Future of AI](https://poggio-lab.mit.edu/blogsupdates/interview-blaise-aguera-y-arcas) | MIT - Poggio Lab | March 09, 2026 |
+| [Google finds that AI agents learn to cooperate when trained against unpredictable opponents](https://venturebeat.com/orchestration/google-finds-that-ai-agents-learn-to-cooperate-when-trained-against) |Venture Beat  | March 1, 2026 |
 | [Is AI really ‘intelligent’? This philosopher says yes](https://eastleighvoice.co.ke/technology/301434/is-ai-really-intelligent-this-philosopher-says-yes) | East Leigh Voice | February 26, 2026 |
 | [Theory of Mind in LLMs](https://aiglossary.co.uk/2026/02/24/theory-of-mind-in-llms/) | Philisophical Glossory of AI  | February 23, 2026 |
 | [Is AI really ‘intelligent’? This philosopher says yes](https://theconversation.com/is-ai-really-intelligent-this-philosopher-says-yes-271721) | The Conversation | February 19, 2026 |
@@ -91,6 +125,13 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | [AI models that simulate internal debate dramatically improve accuracy on complex tasks](https://venturebeat.com/orchestration/ai-models-that-simulate-internal-debate-dramatically-improve-accuracy-on) | Venture Beat | January 30, 2026 |
 | [When Patterns Look Like Thought](https://www.psychologytoday.com/us/blog/the-digital-self/202601/when-patterns-look-like-thought) | Psychology Today | Janaury 20, 2026 |
 | [How Google’s 'internal RL' could unlock long-horizon AI agents](https://venturebeat.com/infrastructure/how-googles-internal-rl-could-unlock-long-horizon-ai-agents) | Venture Beat | Janaury 16, 2026 |
+
+
+<details>
+  <summary> 2025 Pi in the Press </summary>
+
+| Title | Publication | Publication Date|
+| ---- | ---------- | -------|
 | [Blaise Agüera y Arcas Conversations Before Midnight 2025](https://www.youtube.com/watch?v=NMCzPf3pW5g) | Bulletin of the Atomic Scientists | December 22, 2025 |
 | [Google fellow: AI doesn’t pretend to be intelligent. It is.](https://bigthink.com/books/blaise-aguera-y-arcas/) | Big Think | December 05, 2025 |
 | [On Intelligence and the Origins of Life](https://antikythera.substack.com/p/6b0ec140-9f65-487b-8bf9-2f9dc7cae409?postPreview=paid&updated=2025-11-26T17%3A21%3A30.126Z&audience=everyone&free_preview=false&freemail=true) | Antikythera | December 4, 2025 |
@@ -134,6 +175,14 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | [What is Life? Round 2 with Blaise Aguera y Arcas](https://uxmag.com/podcast/what-is-life-with-blaise-aguera-y-arcas) | Invisible Machines |January 31, 2025 |
 | [Could Pain Help Test AI for Sentience?](https://www.scientificamerican.com/article/could-inflicting-pain-test-ai-for-sentience/) | Scientific American |January 14, 2025 |
 | [Multi-agent cooperation through learning-aware policy gradients](https://www.youtube.com/watch?v=mnKIdG91dnk) | Montreal AI and Neuroscience conference| January 13, 2025 |
+
+</details>
+
+<details>
+  <summary> 2024 Pi in the Press </summary>
+
+| Title | Publication | Publication Date|
+| ---- | ---------- | -------|
 | [Seattle’s Top AI Scientist Programs the Origins of Life](https://www.thestranger.com/books/2024/12/27/79845300/seattles-top-ai-scientist-programs-the-origins-of-life?utm_medium=social&utm_source=linktree&utm_campaign=the+stranger%3A+seattle%E2%80%99s+top+ai+scientist+programs+the+origins+of+life) |The Stranger| December 28, 2024 |
 | [Beyond the Brain](https://www.theatlantic.com/sponsored/google/beyond-the-brain/3944/) | The Atlantic | December 4, 2024 |
 | [Intelligent machines and humans: a collaborative future?](https://www.micromega.net/macchine-intelligenti-e-umani-un-futuro-di-collaborazione) | MicroMega |November 20, 2024 |
@@ -149,3 +198,6 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 |[Google just dropped millions of dollars to teach more people how to use AI—and an exec says it could ‘create a reinvigoration of the American middle class’](https://fortune.com/2024/04/26/google-ai-skills-investment-opportunity-fund-essentials-course-james-manyika-lisa-gevelber/) | Fortune Magazine| April 26, 2024 |
 | [Are Our Tools Becoming Part of Us?](https://freakonomics.com/podcast/are-our-tools-becoming-part-of-us/) |Freakonomics | March 29, 2024 |
 | [ Identity and Collective Intelligence with Blaise Agüera y Arcas, VP at Google Research](https://www.youtube.com/watch?v=xZ2EQgINEh4) | Invisible Machines | November 30, 2023 |
+
+</details>
+
