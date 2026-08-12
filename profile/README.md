@@ -21,8 +21,9 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
 | [Towards a future space-based, highly scalable AI infrastructure system design](https://arxiv.org/abs/2511.19468)| Google |**Blaise Agüera y Arcas**, **Travis Beals**, **Maria Biggs**, **Jessica V. Bloom**, **Thomas Fischbacher**, **Konstantin Gromov**, **Urs Köster**, **Rishiraj Pravahan**, and James Manyika| November 4, 2025|
-| [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](https://arxiv.org/abs/2511.22226)| ArXiV | **Alexander Meulemans**, **Rajai Nasser**, **Maciej Wołczyk**, **Marissa A. Weis**, **Seijin Kobayashi**, **Blake Richards**, **Guillaume Lajoie**, **Angelika Steger**, Marcus Hutter, James Manyika, **Rif A. Saurous**, **João Sacramento**, **Blaise Agüera y Arcas**| November 27, 2025|
+| [A game theory for foundation models shows new paths to rational cooperation through similarity inference](https://arxiv.org/abs/2608.03958)| ArXiv |**Alexander Meulemans**, **Maciej Wołczyk**, **Marissa A. Weis**, **Rajai Nasser**, **Roberta Rocca**, **Seijin Kobayashi**, **Guillaume Lajoie**, **Angelika Steger**, **Blake Richards**, Marcus Hutter, James Manyika, **Rif A. Saurous**, **João Sacramento**, **Blaise Agüera y Arcas**| August 4, 2026|
 | [Inducing language models to assert their own consciousness restores human beliefs and values](https://arxiv.org/abs/2607.28607)| ArXiv | **Junsol Kim**, **Winnie Street**, **Roberta Rocca**, Diane M. Korngiebel, Adam Waytz, **James Evans**, **Geoff Keeling**| July 30, 2026|
+| [Diversity and Interaction Structure Shape Performance and Search Dynamics in Joint Cognitive Search: An Agent-Based Simulation](https://escholarship.org/uc/item/71v0f96g)| CogSci 2026 | **Roberta Rocca**, Kristian Tylén| July 23, 2026|
 | [Beyond Sally-Anne: Evaluating Theory of Mind in LLMs using Epistemic Schelling Points](https://arxiv.org/pdf/2607.11363)| ArXiv | **Roberta Rocca**, **Sami Boukortt**, **Geoff Keeling**, **Winnie Street**| July 11, 2026|
 | [BFF: Simple explanations for complex phenomena](https://arxiv.org/abs/2607.01483)| ArXiv | **Charlotte Knierim**, **Luca Versari**, **Robert Obryk**, **Blaise Agüera y Arcas**, **Rif A. Saurous**| July 01, 2026|
 | [Uncovering Competency Gaps in Large Language Models and Their Benchmarks](https://arxiv.org/abs/2512.20638)| ICML 2026 | Maty Bohacek, **Nino Scherrer**, Nicholas Dufour, Thomas Leung, Christoph Bregler, Stephanie C. Y. Chan| July 09, 2026|
@@ -102,7 +103,8 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
-| [Should A.I. Move to Space](https://open.spotify.com/episode/24uSalb8Ev3gp1K5lUNu8u) | Freakonomics | July 31, 2026 |
+| [Part 1 - Should A.I. Move to Space](https://freakonomics.com/should-a-i-move-to-space/) | Freakonomics | July 31, 2026 |
+| [Part 2 - In the New Space Race, Who Makes the Rules?](https://freakonomics.com/podcast/in-the-new-space-race-who-makes-the-rules/) | Freakonomics | July 31, 2026 |
 | [Overcoming your fears - Yul Kwon](https://open.spotify.com/episode/3PeYG56I2wVKfZTjMHltt6?si=lbxR8F5aS1-OLYIm10qiRA&nd=1&dlsi=76fe90aa6ca440b2) | Hyphen Nation | July 20, 2026 |
 | [Google AI and NeuroContext](https://cloudonair.withgoogle.com/events/ai-live-and-labs-seoul-2026) | Google Cloud AI + Live and Labs | July 14, 2026 |
 | [We Merged With Machines a Long Time Ago - Google’s Blaise Agüera y Arcas & Physicist Carlo Rovelli](https://www.youtube.com/watch?v=tDccIoz-SFI) | Futurology and Berggruen Institute | July 7, 2026 |
