@@ -103,6 +103,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [Humanity has the debate about AI consciousness backwards](https://www.economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards) | The Economist | August 20, 2026 |
 | [Part 1 - Should A.I. Move to Space](https://freakonomics.com/should-a-i-move-to-space/) | Freakonomics | July 31, 2026 |
 | [Part 2 - In the New Space Race, Who Makes the Rules?](https://freakonomics.com/podcast/in-the-new-space-race-who-makes-the-rules/) | Freakonomics | July 31, 2026 |
 | [Overcoming your fears - Yul Kwon](https://open.spotify.com/episode/3PeYG56I2wVKfZTjMHltt6?si=lbxR8F5aS1-OLYIm10qiRA&nd=1&dlsi=76fe90aa6ca440b2) | Hyphen Nation | July 20, 2026 |
