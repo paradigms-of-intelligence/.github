@@ -103,6 +103,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [Emerging Questions in AI Welfare](https://www.youtube.com/watch?v=9PrjIULcUJs) | Neuromatch Digital Sentience Scholars Program | August 20, 2026 |
 | [Humanity has the debate about AI consciousness backwards](https://www.economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards) | The Economist | August 20, 2026 |
 | [Part 1 - Should A.I. Move to Space](https://freakonomics.com/should-a-i-move-to-space/) | Freakonomics | July 31, 2026 |
 | [Part 2 - In the New Space Race, Who Makes the Rules?](https://freakonomics.com/podcast/in-the-new-space-race-who-makes-the-rules/) | Freakonomics | July 31, 2026 |
@@ -115,6 +116,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | [The Science of Ethical and Trustworthy AI](https://viterbischool.usc.edu/news/2026/04/usc-institute-on-ethics-and-trust-in-computing-launched-inaugural-summit/) | USC Viterbi Blog | April 30, 2026 |
 | [Dynamic Parameter Reuse Augments Reasoning via Latent Chain of Thought](https://iclr-blogposts.github.io/2026/blog/2026/recur-refine-reason/) | ICLR Blog Post | April 27, 2026 |
 | [NeuroContext: Exploratory research on cognitive enhancement for AI agents](https://docs.google.com/presentation/d/1qOHQ0Yn9vH65C9EozjV7CG6PcoHFWagxTUgArPeeenE/edit?slide=id.g3d242c39ce5_0_1#slide=id.g3d242c39ce5_0_1) | Google Cloud Next | April 22, 2026 |
+| [Uncovering Mesa-Optimization Algorithms in Transformers & Building N. Scherrer](https://www.youtube.com/watch?v=zpsJgG7rosE) | IVADO Workshop on Mechanistic Reasoning | April 21, 2026 |
 | [How the workplace helps you win Survivor](https://www.npr.org/2026/04/14/nx-s1-5784039/how-the-workplace-helps-you-win-survivor) | NPR | April 14, 2026 |
 | [Interview: Blaise Aguera y Arcas, VP and Fellow, Google CTO Technology and Science](https://eandt.theiet.org/2026/03/13/interview-blaise-aguera-y-arcas-vp-and-fellow-google-cto-technology-and-science#rsupsf-filtered=yes&utm_source=latest-in-category) | Engineering and Technology | April 2026 |
 | [Google Research Reveals AI Intelligence Emerges From Simulated Multi-Agent Interactions](https://quantumzeitgeist.com/google-ai-intelligence-research-emerges/) |Quantum Zeitgeist  | March 28, 2026 |
