@@ -104,6 +104,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [Does AGI mean what we think it means?](https://www.scientificamerican.com/article/ai-labs-are-claiming-agi-is-imminent-but-does-that-mean-what-we-think-it-means/) | Scientific American | September 17, 2026 |
 | [Emerging Questions in AI Welfare](https://www.youtube.com/watch?v=9PrjIULcUJs) | Neuromatch Digital Sentience Scholars Program | August 20, 2026 |
 | [Humanity has the debate about AI consciousness backwards](https://www.economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards) | The Economist | August 20, 2026 |
 | [Part 1 - Should A.I. Move to Space](https://freakonomics.com/should-a-i-move-to-space/) | Freakonomics | July 31, 2026 |
