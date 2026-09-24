@@ -104,6 +104,8 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [Google Suncatcher A.I Data Center Space](https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html) | New York Times | September 24, 2026 |
+| [Artificial symbiotic intelligence: Agents, AGI and the orchestration of many minds](https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/) | DeepMind Institute | September 23, 2026 |
 | [Does AGI mean what we think it means?](https://www.scientificamerican.com/article/ai-labs-are-claiming-agi-is-imminent-but-does-that-mean-what-we-think-it-means/) | Scientific American | September 17, 2026 |
 | [Emerging Questions in AI Welfare](https://www.youtube.com/watch?v=9PrjIULcUJs) | Neuromatch Digital Sentience Scholars Program | August 20, 2026 |
 | [Humanity has the debate about AI consciousness backwards](https://www.economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards) | The Economist | August 20, 2026 |
