@@ -20,9 +20,10 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
+|[A latent control model for realistic rodent motion](https://arxiv.org/abs/2610.27279) | NeurIPS 2026 | **Aidan Sirbu**, Charles Y. Zhang, Yuanjia Yang, Bence P. Ölveczky, Talmo D. Pereira, **Blake A. Richards**| October 19, 2026|
 |[Towards a future space-based, highly scalable AI infrastructure system design](https://www.cell.com/joule/fulltext/S2542-4351(26)00362-4)| Joule | **Blaise Aguera y Arcas**, **Travis Beals**, **Maria Biggs,** **Jessica Bloom**, **Thomas Fischbacher**, **Konstantin Gromov**, **Urs Koester**, **Rishiraj Pravahan**, James Manyika | October 1, 2026|
 |[Reasoning with Neural Cellular Automata](https://arxiv.org/abs/2609.36126v1) | ArXiv | **Mayalen Etcheverry**, **Pietro Miotti**, **Aidan Sirbu**, **Konstantin Schürholt**, **Mariia Drozdova**, **Arna Ghosh**, James Manyika, **Blaise Aguera y Arcas**, **Blake Richards**, **Eyvind Niklasson**| September 28, 2026|
-| [Tapes Together Strong: The Co-evolution of Computation and Cooperation](https://arxiv.org/abs/2609.10817)| ArXiv |**Kunal Jha**, **Francesco Cicala**, **Blaise Agüera y Arcas**, **Blake Aaron Richards**, Natasha Jaques, Max Kleiman-Weiner, **Eyvind Niklasson**| September 9, 2026|
+| [Tapes Together Strong: The Co-evolution of Computation and Cooperation](https://arxiv.org/abs/2609.10817)| NeurIPS 2026 |**Kunal Jha**, **Francesco Cicala**, **Blaise Agüera y Arcas**, **Blake Aaron Richards**, Natasha Jaques, Max Kleiman-Weiner, **Eyvind Niklasson**| September 9, 2026|
 | [A game theory for foundation models shows new paths to rational cooperation through similarity inference](https://arxiv.org/abs/2608.03958)| ArXiv |**Alexander Meulemans**, **Maciej Wołczyk**, **Marissa A. Weis**, **Rajai Nasser**, **Roberta Rocca**, **Seijin Kobayashi**, **Guillaume Lajoie**, **Angelika Steger**, **Blake Richards**, Marcus Hutter, James Manyika, **Rif A. Saurous**, **João Sacramento**, **Blaise Agüera y Arcas**| August 4, 2026|
 | [Inducing language models to assert their own consciousness restores human beliefs and values](https://arxiv.org/abs/2607.28607)| ArXiv | **Junsol Kim**, **Winnie Street**, **Roberta Rocca**, Diane M. Korngiebel, Adam Waytz, **James Evans**, **Geoff Keeling**| July 30, 2026|
 | [Diversity and Interaction Structure Shape Performance and Search Dynamics in Joint Cognitive Search: An Agent-Based Simulation](https://escholarship.org/uc/item/71v0f96g)| CogSci 2026 | **Roberta Rocca**, Kristian Tylén| July 23, 2026|
@@ -106,6 +107,8 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [AI is forcing us to reckon with a 400-year-old problem](https://bigthink.com/philosophy/healing-the-cartesian-wound/) | Big Think | October 21, 2026 |
+| [The next great cultural divide will be over AI “consciousness” ](https://www.youtube.com/watch?v=5JMPE5Cigps) | Intelligence Everywhere | October 14, 2026 |
 | [Google Takes the A.I. Data Center Race to Outer Space](https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html) | New York Times | September 24, 2026 |
 | [Artificial symbiotic intelligence: Agents, AGI and the orchestration of many minds](https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/) | DeepMind Institute | September 23, 2026 |
 | [Does AGI mean what we think it means?](https://www.scientificamerican.com/article/ai-labs-are-claiming-agi-is-imminent-but-does-that-mean-what-we-think-it-means/) | Scientific American | September 17, 2026 |
