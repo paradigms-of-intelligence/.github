@@ -21,6 +21,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
 |[A latent control model for realistic rodent motion](https://arxiv.org/abs/2610.27279) | NeurIPS 2026 | **Aidan Sirbu**, Charles Y. Zhang, Yuanjia Yang, Bence P. Ölveczky, Talmo D. Pereira, **Blake A. Richards**| October 19, 2026|
+|[Diffusion as a Training Curriculum for Timestep-Free Iterative Reasoning](https://arxiv.org/abs/2609.01449) | NeurIPS 2026 Workshop | **Mariia Drozdova**, **Aidan Sirbu**, **Pietro Miotti**, **Robert Obryk**, **Mayalen Etcheverry**, **Eyvind Niklasson**, **Blake Richards**| October 14, 2026|
 |[Towards a future space-based, highly scalable AI infrastructure system design](https://www.cell.com/joule/fulltext/S2542-4351(26)00362-4)| Joule | **Blaise Aguera y Arcas**, **Travis Beals**, **Maria Biggs,** **Jessica Bloom**, **Thomas Fischbacher**, **Konstantin Gromov**, **Urs Koester**, **Rishiraj Pravahan**, James Manyika | October 1, 2026|
 |[Reasoning with Neural Cellular Automata](https://arxiv.org/abs/2609.36126v1) | ArXiv | **Mayalen Etcheverry**, **Pietro Miotti**, **Aidan Sirbu**, **Konstantin Schürholt**, **Mariia Drozdova**, **Arna Ghosh**, James Manyika, **Blaise Aguera y Arcas**, **Blake Richards**, **Eyvind Niklasson**| September 28, 2026|
 | [Tapes Together Strong: The Co-evolution of Computation and Cooperation](https://arxiv.org/abs/2609.10817)| NeurIPS 2026 |**Kunal Jha**, **Francesco Cicala**, **Blaise Agüera y Arcas**, **Blake Aaron Richards**, Natasha Jaques, Max Kleiman-Weiner, **Eyvind Niklasson**| September 9, 2026|
@@ -86,6 +87,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
   
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- | 
+| [Emergent Multiscale Structures and Generative Potential of Isotropic Neural Cellular Automata](https://direct.mit.edu/isal/proceedings/isal2024/36/28/123503)|  ALIFE 2024  |**Alexander Mordvintsev**, **Eyvind Niklasson**| July 22, 2024|
 | [AI Mental Models & Trust ](https://www.epicpeople.org/ai-mental-models-and-trust/)|  Ethnography Praxis in Industry Conference | Soojin Jeong, **Anoop Sinha**| August 18, 2024|
 | [Emergent Multiscale Structures and Generative Potential of Isotropic Neural Cellular Automata](https://direct.mit.edu/isal/proceedings/isal2024/36/28/123503)|  ALIFE 2024  |**Alexander Mordvintsev**, **Eyvind Niklasson**| July 22, 2024|
 | [On the attribution of confidence to large language models](https://arxiv.org/abs/2407.08388) | Inquiry | **Geoff Keeling**, **Winnie Street** | July 11, 2024|
@@ -107,6 +109,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Pi in the Press
 | Title | Publication | Publication Date|
 | ---- | ---------- | -------|
+| [Baratunde Thurston & Blaise Agüera y Arcas On Interdependence](https://www.youtube.com/watch?v=CpNPzkKy0Fc)| The Long Now Foundation| October 22, 2026|
 | [AI is forcing us to reckon with a 400-year-old problem](https://bigthink.com/philosophy/healing-the-cartesian-wound/) | Big Think | October 21, 2026 |
 | [The next great cultural divide will be over AI “consciousness” ](https://www.youtube.com/watch?v=5JMPE5Cigps) | Intelligence Everywhere | October 14, 2026 |
 | [Google Takes the A.I. Data Center Race to Outer Space](https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html) | New York Times | September 24, 2026 |
