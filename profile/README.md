@@ -87,7 +87,6 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
   
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- | 
-| [Emergent Multiscale Structures and Generative Potential of Isotropic Neural Cellular Automata](https://direct.mit.edu/isal/proceedings/isal2024/36/28/123503)|  ALIFE 2024  |**Alexander Mordvintsev**, **Eyvind Niklasson**| July 22, 2024|
 | [AI Mental Models & Trust ](https://www.epicpeople.org/ai-mental-models-and-trust/)|  Ethnography Praxis in Industry Conference | Soojin Jeong, **Anoop Sinha**| August 18, 2024|
 | [Emergent Multiscale Structures and Generative Potential of Isotropic Neural Cellular Automata](https://direct.mit.edu/isal/proceedings/isal2024/36/28/123503)|  ALIFE 2024  |**Alexander Mordvintsev**, **Eyvind Niklasson**| July 22, 2024|
 | [On the attribution of confidence to large language models](https://arxiv.org/abs/2407.08388) | Inquiry | **Geoff Keeling**, **Winnie Street** | July 11, 2024|
